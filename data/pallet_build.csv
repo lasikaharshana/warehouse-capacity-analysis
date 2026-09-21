@@ -1,0 +1,589 @@
+sku,description,principal,category,product_group,storage_condition,units_per_case,case_length_cm,case_width_cm,case_height_cm,case_cbm,case_weight_kg,unit_cost_nzd,ti,hi,cases_per_pallet,pallet_height_cm,pallet_weight_kg,pallet_cbm
+PH10001,Sertraline 100mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,120,59.6,35.1,23.8,0.04979,8.97,13.84,4,6,24,157.8,240.28000000000003,1.19496
+PH10002,Pantoprazole 40mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,30.5,42.5,25.8,0.03344,8.72,11.92,6,5,30,144.0,286.6,1.0031999999999999
+PH10003,Ibuprofen 200mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,240,47.7,25.2,17.2,0.02068,5.45,5.93,8,5,40,101.0,243.0,0.8272
+PH10004,Azithromycin 250mg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,100,33.5,38.9,32.8,0.04274,9.76,19.81,4,2,8,80.6,103.08,0.34192
+PH10005,Rosuvastatin 10mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,240,42.5,32.1,33.2,0.04529,10.17,4.58,6,2,12,81.4,147.04,0.54348
+PH10006,Glimepiride 4mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,240,33.8,35.2,29.2,0.03474,7.99,6.36,6,5,30,161.0,264.70000000000005,1.0422
+PH10007,Carvedilol 25mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,39.6,36.3,22.8,0.03277,5.82,21.36,5,4,20,106.2,141.4,0.6554
+PH10008,Carvedilol 6.25mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,45.4,42.7,32.1,0.06223,10.24,3.96,4,4,16,143.4,188.84,0.99568
+PH10009,Rosuvastatin 20mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,120,55.2,41.5,22.7,0.052,13.63,9.25,3,5,15,128.5,229.45000000000002,0.7799999999999999
+PH10010,Carvedilol 25mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,44.2,42.9,31.3,0.05935,14.98,18.36,2,4,8,140.2,144.84,0.4748
+PH10011,Loratadine 10mg Tablets 2x14,Dunmore Therapeutics,Pharma,Tablets,Below 25C,100,42.1,41.5,24.3,0.04246,12.1,22.89,4,5,20,136.5,267.0,0.8492
+PH10012,Levothyroxine 100mcg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,34.4,38.0,29.8,0.03895,6.78,20.01,6,4,24,134.2,187.72,0.9348
+PH10013,Rosuvastatin 10mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,34.5,39.6,16.5,0.02254,5.61,8.74,6,6,36,114.0,226.96,0.81144
+PH10014,Pantoprazole 20mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,100,44.0,30.7,25.3,0.03418,9.14,23.67,6,2,12,65.6,134.68,0.41016
+PH10015,Atorvastatin 40mg Tablets 3x10,Dunmore Therapeutics,Pharma,Tablets,Below 25C,180,41.4,42.5,16.9,0.02974,6.13,4.15,4,7,28,133.29999999999998,196.64,0.83272
+PH10016,Prednisolone 25mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,55.1,34.7,34.2,0.06539,12.13,17.11,4,3,12,117.60000000000001,170.56,0.78468
+PH10017,Furosemide 40mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,30.9,35.5,24.5,0.02688,5.26,7.72,9,6,54,162.0,309.03999999999996,1.4515200000000001
+PH10018,Simvastatin 20mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,100,57.9,37.0,18.1,0.03878,8.03,16.69,3,7,21,141.70000000000002,193.63,0.81438
+PH10019,Ibuprofen 400mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,50.5,30.7,31.6,0.04899,8.95,7.84,4,3,12,109.80000000000001,132.39999999999998,0.58788
+PH10020,Ciprofloxacin 500mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,41.9,25.7,16.1,0.017336963,2.8,19.02,6,6,36,111.60000000000001,125.8,0.624130668
+PH10021,Prednisolone 5mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,36.4,42.4,33.1,0.05109,7.86,19.51,6,3,18,114.30000000000001,166.48000000000002,0.9196200000000001
+PH10022,Escitalopram 20mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,46.9,26.6,26.4,0.03294,8.91,8.68,7,4,28,120.6,274.48,0.9223199999999999
+PH10023,Gliclazide 80mg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,180,37.0,31.6,16.2,0.01894,4.55,3.72,9,8,72,144.6,352.59999999999997,1.36368
+PH10024,Ciprofloxacin 500mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,60,32.5,43.6,17.5,0.0248,5.25,11.43,6,6,36,120.0,214.0,0.8927999999999999
+PH10025,Diclofenac 50mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,51.0,34.4,31.2,0.05474,9.81,19.37,4,3,12,108.6,142.72,0.6568799999999999
+PH10026,Cetirizine 10mg Tablets 2x14,Dunmore Therapeutics,Pharma,Tablets,Below 25C,240,36.6,37.2,27.0,0.03676,9.16,9.61,5,4,20,123.0,208.2,0.7352000000000001
+PH10027,Simvastatin 20mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,100,33.9,42.9,29.6,0.04305,11.9,15.11,6,3,18,103.80000000000001,239.20000000000002,0.7748999999999999
+PH10028,Bisoprolol 5mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,100,57.9,35.3,19.6,0.04006,6.03,11.09,4,4,16,93.4,121.48,0.64096
+PH10029,Gliclazide 80mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,180,42.1,38.4,18.9,0.03055,8.37,21.04,5,4,20,90.6,192.39999999999998,0.611
+PH10030,Allopurinol 300mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,60,56.5,30.2,31.8,0.05426,12.08,3.73,6,2,12,78.6,169.96,0.65112
+PH10032,Pantoprazole 40mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,100,52.7,39.0,31.5,0.06474,10.75,5.77,4,4,16,141.0,197.0,1.03584
+PH10033,Simvastatin 20mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,56.1,30.3,32.9,0.05592,10.82,10.85,6,3,18,113.69999999999999,219.76,1.00656
+PH10034,Ibuprofen 200mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,33.1,33.6,31.0,0.03448,6.29,14.51,9,2,18,77.0,138.22,0.62064
+PH10035,Metoprolol 50mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,59.6,34.9,26.8,0.05575,14.35,22.98,2,2,4,68.6,82.4,0.223
+PH10036,Bisoprolol 2.5mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,100,57.8,36.7,22.1,0.04688,9.02,23.52,4,3,12,81.30000000000001,133.24,0.56256
+PH10037,Montelukast 10mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,240,51.9,42.4,18.3,0.04027,7.05,14.42,4,4,16,88.2,137.8,0.64432
+PH10038,Pantoprazole 20mg Tablets 10x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,33.3,39.5,26.9,0.03538,5.79,19.53,9,5,45,149.5,285.55,1.5921
+PH10039,Atorvastatin 40mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,46.2,28.8,21.9,0.02914,8.23,4.35,8,3,24,80.69999999999999,222.52,0.69936
+PH10040,Warfarin 5mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,100,43.3,41.9,27.0,0.04899,11.04,13.85,4,3,12,96.0,157.48,0.58788
+PH10041,Amlodipine 5mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,100,56.8,32.1,19.7,0.03592,8.0,24.46,6,6,36,133.2,313.0,1.29312
+PH10042,Glimepiride 4mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,50.2,38.4,33.7,0.06496,15.47,8.54,2,4,8,149.8,148.76,0.51968
+PH10043,Atorvastatin 10mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,180,36.9,35.6,16.2,0.02128,5.36,2.65,5,9,45,160.79999999999998,266.20000000000005,0.9576
+PH10045,Atorvastatin 40mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,43.5,36.9,34.6,0.05554,9.54,19.82,6,3,18,118.80000000000001,196.71999999999997,0.9997199999999999
+PH10046,Warfarin 1mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,41.5,43.5,16.3,0.02943,6.21,20.66,2,7,14,129.10000000000002,111.94,0.41202
+PH10047,Metformin 850mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,45.3,43.1,19.8,0.03866,11.06,4.14,4,7,28,153.6,334.68,1.0824799999999999
+PH10048,Simvastatin 40mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,54.2,38.7,32.2,0.06754,13.01,3.27,4,4,16,143.8,233.16,1.08064
+PH10049,Amlodipine 5mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,180,52.5,41.2,31.6,0.06835,17.57,8.64,4,2,8,78.2,165.56,0.5468
+PH10050,Escitalopram 10mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,53.0,44.3,22.0,0.05165,12.46,24.31,4,5,20,125.0,274.20000000000005,1.033
+PH10051,Escitalopram 10mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,57.7,39.2,29.1,0.06582,17.87,11.21,4,4,16,131.4,310.92,1.05312
+PH10053,Simvastatin 40mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,54.7,43.6,25.1,0.05986,11.02,23.17,4,3,12,90.30000000000001,157.24,0.71832
+PH10054,Esomeprazole 40mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,57.5,44.2,32.8,0.08336,16.28,24.78,4,3,12,113.39999999999999,220.36,1.00032
+PH10055,Ibuprofen 200mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,120,30.7,30.0,33.6,0.03095,9.28,20.69,11,4,44,149.4,433.32,1.3618
+PH10056,Allopurinol 100mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,53.3,36.4,22.9,0.04443,7.21,3.94,3,3,9,83.69999999999999,89.89,0.39986999999999995
+PH10057,Glimepiride 2mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,100,37.9,34.9,30.5,0.04034,10.87,21.5,6,2,12,76.0,155.44,0.48408
+PH10058,Pantoprazole 40mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,120,43.2,37.1,33.4,0.05353,11.46,19.25,6,3,18,115.19999999999999,231.28000000000003,0.9635400000000001
+PH10059,Telmisartan 80mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,180,55.2,40.3,25.7,0.05717,11.86,2.49,4,5,20,143.5,262.2,1.1434
+PH10060,Paracetamol 500mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,58.5,34.4,21.0,0.04226,9.62,10.79,2,7,14,162.0,159.67999999999998,0.5916399999999999
+PH10061,Simvastatin 40mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,120,32.3,44.6,15.3,0.02204,4.98,20.07,6,7,42,122.10000000000001,234.16000000000003,0.9256800000000001
+PH10062,Amlodipine 5mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,49.9,39.1,16.9,0.03297,9.87,19.36,6,8,48,150.2,498.76,1.58256
+PH10063,Simvastatin 40mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,54.2,44.2,29.4,0.07043,16.09,16.72,4,5,20,162.0,346.8,1.4086
+PH10064,Telmisartan 80mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,240,48.7,25.0,18.0,0.02192,6.54,8.11,8,5,40,105.0,286.6,0.8767999999999999
+PH10065,Rosuvastatin 20mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,180,54.3,32.4,29.5,0.0519,11.84,21.07,4,5,20,162.5,261.8,1.038
+PH10066,Atorvastatin 10mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,33.6,35.4,32.3,0.03842,7.09,3.7,6,2,12,79.6,110.08,0.46104
+PH10067,Montelukast 10mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,240,32.5,40.7,31.8,0.04206,11.95,23.33,6,2,12,78.6,168.39999999999998,0.5047200000000001
+PH10068,Ciprofloxacin 250mg Tablets 10x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,46.1,37.6,34.1,0.05911,9.32,15.42,5,3,15,117.30000000000001,164.8,0.88665
+PH10069,Amlodipine 10mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,240,57.9,39.9,27.1,0.06261,14.68,18.99,4,2,8,69.2,142.44,0.50088
+PH10070,Sertraline 50mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,100,46.8,40.3,34.3,0.06469,15.07,8.63,4,3,12,117.89999999999999,205.84,0.77628
+PH10071,Metformin 850mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,53.8,41.5,34.6,0.07725,12.3,13.41,3,3,9,118.80000000000001,135.7,0.69525
+PH10072,Azithromycin 250mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,120,44.3,29.4,35.0,0.04558,8.53,8.54,7,2,14,85.0,144.42,0.63812
+PH10073,Esomeprazole 40mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,180,53.3,38.9,30.7,0.06365,13.7,19.04,4,4,16,137.8,244.2,1.0184
+PH10074,Paracetamol 500mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,60,55.4,43.0,34.9,0.08314,15.96,2.12,4,4,16,154.6,280.36,1.33024
+PH10075,Escitalopram 20mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,34.3,40.6,31.1,0.04331,8.03,18.76,6,4,24,139.4,217.71999999999997,1.03944
+PH10076,Metformin 500mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,35.5,40.1,16.0,0.02278,6.45,9.41,6,8,48,143.0,334.6,1.0934400000000002
+PH10077,Prednisolone 5mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,180,58.5,34.0,23.0,0.04575,7.28,21.55,4,5,20,130.0,170.6,0.915
+PH10078,Furosemide 40mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,30.2,38.0,27.2,0.03121,5.58,17.98,9,4,36,123.8,225.88,1.1235600000000001
+PH10079,Allopurinol 100mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,60,56.7,34.6,22.8,0.04473,10.73,24.34,4,3,12,83.4,153.76,0.53676
+PH10080,Loratadine 10mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,42.9,31.0,22.4,0.02979,6.0,10.8,6,4,24,104.6,169.0,0.71496
+PH10081,Metformin 500mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,49.1,37.6,17.3,0.03194,5.4,19.85,4,8,32,153.4,197.8,1.02208
+PH10082,Ciprofloxacin 250mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,120,34.5,26.7,26.1,0.02404,3.94,15.32,9,5,45,145.5,202.3,1.0817999999999999
+PH10083,Clopidogrel 75mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,180,45.4,25.3,30.3,0.0348,7.61,17.65,8,3,24,105.9,207.64000000000001,0.8351999999999999
+PH10084,Diclofenac 50mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,55.9,40.6,19.2,0.04358,11.23,14.6,4,6,24,130.2,294.52,1.04592
+PH10085,Allopurinol 300mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,100,43.5,37.1,22.6,0.03647,9.83,24.8,6,4,24,105.4,260.92,0.8752800000000001
+PH10086,Losartan 100mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,50.6,38.0,30.3,0.05826,11.97,3.97,4,3,12,105.9,168.64000000000001,0.69912
+PH10087,Bisoprolol 5mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,120,58.3,26.6,33.2,0.05149,8.74,7.56,6,2,12,81.4,129.88,0.61788
+PH10088,Glimepiride 2mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,53.7,32.8,23.8,0.04192,10.01,20.08,6,3,18,86.4,205.18,0.75456
+PH10089,Metoprolol 50mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,240,41.0,34.7,33.3,0.04738,11.95,3.72,6,3,18,114.89999999999999,240.1,0.8528399999999999
+PH10090,Levothyroxine 50mcg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,40.3,36.3,23.8,0.03482,9.98,6.76,6,3,18,86.4,204.64000000000001,0.62676
+PH10091,Atorvastatin 10mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,51.5,34.9,29.7,0.05338,13.17,24.15,4,3,12,104.1,183.04,0.64056
+PH10092,Bisoprolol 5mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,180,50.7,25.3,15.6,0.02001,5.86,8.11,6,4,24,77.4,165.64000000000001,0.48024
+PH10093,Pantoprazole 20mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,43.8,27.8,21.1,0.02569,4.2,19.2,8,6,48,141.60000000000002,226.60000000000002,1.23312
+PH10094,Loratadine 10mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,240,59.1,29.7,19.4,0.03405,5.35,24.57,6,5,30,112.0,185.5,1.0214999999999999
+PH10095,Amlodipine 10mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,51.7,35.3,18.2,0.03322,6.62,20.17,4,6,24,124.19999999999999,183.88,0.79728
+PH10096,Cetirizine 10mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,180,54.5,25.4,26.0,0.03599,7.02,17.14,6,2,12,67.0,109.24,0.43188000000000004
+PH10097,Rosuvastatin 5mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,100,57.1,37.8,26.2,0.05655,15.26,5.13,4,5,20,146.0,330.2,1.131
+PH10098,Warfarin 1mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,240,58.2,43.9,27.8,0.07103,18.51,5.26,4,4,16,126.2,321.16,1.13648
+PH10099,Simvastatin 40mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,180,48.3,41.3,19.6,0.0391,10.58,4.22,4,6,24,132.60000000000002,278.92,0.9384000000000001
+PH10100,Carvedilol 6.25mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,51.1,36.5,29.2,0.05446,14.9,2.21,4,3,12,102.6,203.8,0.65352
+PH10101,Azithromycin 500mg Tablets 2x14,Arcadine Pharma,Pharma,Tablets,Below 25C,60,51.6,31.1,22.6,0.03627,8.34,16.17,6,5,30,128.0,275.2,1.0880999999999998
+PH10102,Montelukast 10mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,60,30.3,38.8,34.0,0.03997,9.27,7.64,9,3,27,117.0,275.28999999999996,1.0791899999999999
+PH10103,Gliclazide 80mg Tablets 2x14,Dunmore Therapeutics,Pharma,Tablets,Below 25C,100,36.2,37.7,15.6,0.02129,4.05,15.9,6,7,42,124.2,195.1,0.89418
+PH10104,Azithromycin 500mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,180,31.6,38.3,31.9,0.03861,9.6,8.56,9,4,36,142.6,370.59999999999997,1.3899599999999999
+PH10105,Carvedilol 6.25mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,60,57.9,36.4,26.3,0.05543,12.15,14.92,4,3,12,93.9,170.8,0.66516
+PH10106,Bisoprolol 2.5mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,32.3,43.5,32.9,0.04623,11.0,9.35,6,3,18,113.69999999999999,223.0,0.83214
+PH10107,Diclofenac 50mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,240,40.6,38.3,28.8,0.04478,12.33,21.17,6,3,18,101.4,246.94,0.80604
+PH10108,Esomeprazole 20mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,120,51.0,41.2,28.7,0.0603,9.91,15.65,2,3,6,101.1,84.46000000000001,0.3618
+PH10109,Carvedilol 25mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,60,30.4,41.8,18.8,0.02389,3.97,10.51,6,5,30,109.0,144.10000000000002,0.7167
+PH10110,Rosuvastatin 10mg Tablets 10x10,Dunmore Therapeutics,Pharma,Tablets,Below 25C,120,30.3,29.0,17.9,0.01573,2.49,3.36,12,6,72,122.39999999999999,204.28000000000003,1.13256
+PH10111,Gliclazide 80mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,48.0,31.8,20.9,0.0319,9.29,10.48,6,4,24,98.6,247.95999999999998,0.7656
+PH10112,Bisoprolol 5mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,180,41.3,30.8,18.5,0.02353,6.42,3.27,6,5,30,107.5,217.6,0.7059
+PH10113,Rosuvastatin 5mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,46.1,40.3,21.8,0.0405,9.97,10.27,4,5,20,124.0,224.4,0.81
+PH10114,Telmisartan 40mg Tablets 2x14,Arcadine Pharma,Pharma,Tablets,Below 25C,180,34.1,36.9,19.1,0.02403,6.09,18.72,6,6,36,129.60000000000002,244.24,0.86508
+PH10115,Metoprolol 100mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,40.3,28.1,23.6,0.02673,6.75,3.27,8,5,40,133.0,295.0,1.0692
+PH10116,Atorvastatin 10mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,120,57.7,29.1,19.7,0.03308,8.25,13.3,6,5,30,113.5,272.5,0.9924
+PH10117,Sertraline 100mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,240,55.8,44.0,26.2,0.06433,9.93,15.46,4,5,20,146.0,223.6,1.2866
+PH10118,Amlodipine 5mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,50.7,35.9,21.1,0.0384,6.55,19.12,4,4,16,99.4,129.8,0.6144
+PH10119,Ciprofloxacin 250mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,240,51.0,34.2,23.0,0.04012,8.74,17.59,4,5,20,130.0,199.8,0.8024
+PH10120,Cetirizine 10mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,51.0,44.6,28.7,0.06528,10.04,12.43,3,3,9,101.1,115.35999999999999,0.58752
+PH10121,Pantoprazole 40mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,120,39.2,28.6,15.9,0.01783,5.18,9.53,9,4,36,78.6,211.48,0.64188
+PH10122,Allopurinol 300mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,100,58.1,27.0,27.1,0.04251,8.86,17.3,6,4,24,123.4,237.64,1.02024
+PH10123,Sertraline 50mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,36.3,40.7,25.7,0.03797,6.46,19.14,6,5,30,143.5,218.8,1.1391
+PH10124,Prednisolone 25mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,120,42.1,35.5,27.2,0.04065,10.05,5.5,6,5,30,151.0,326.5,1.2195
+PH10125,Carvedilol 25mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,180,41.1,32.6,29.1,0.03899,10.49,10.79,5,5,25,160.5,287.25,0.9747499999999999
+PH10126,Ibuprofen 200mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,180,39.0,27.1,16.7,0.01765,4.41,7.11,9,8,72,148.6,342.52,1.2708
+PH10127,Sertraline 50mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,240,50.5,25.3,29.9,0.0382,11.2,24.75,6,5,30,164.5,361.0,1.146
+PH10128,Rosuvastatin 5mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,46.7,26.4,16.2,0.01997,5.65,9.07,8,6,48,112.19999999999999,296.20000000000005,0.9585600000000001
+PH10129,Rosuvastatin 20mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,39.9,41.6,30.2,0.05013,11.73,18.63,6,2,12,75.4,165.76,0.60156
+PH10130,Atorvastatin 20mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,34.0,40.1,16.9,0.02304,6.13,11.0,6,5,30,99.5,208.9,0.6912
+PH10131,Diclofenac 50mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,37.0,35.3,18.8,0.02455,6.52,20.72,6,7,42,146.6,298.84,1.0311
+PH10132,Paracetamol 500mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,56.7,34.7,33.3,0.06552,13.41,19.15,4,3,12,114.89999999999999,185.92000000000002,0.7862399999999999
+PH10133,Telmisartan 80mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,46.8,28.7,32.2,0.04325,11.81,13.84,8,4,32,143.8,402.92,1.384
+PH10134,Escitalopram 20mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,120,40.7,35.5,25.8,0.03728,7.92,4.57,6,4,24,118.2,215.07999999999998,0.89472
+PH10135,Rosuvastatin 20mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,100,40.6,41.1,23.1,0.03855,9.38,3.69,4,3,12,84.30000000000001,137.56,0.4626
+PH10136,Metoprolol 100mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,100,34.0,33.2,33.3,0.03759,5.89,16.75,9,3,27,114.89999999999999,184.03,1.0149299999999999
+PH10137,Ibuprofen 400mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,58.4,37.8,30.1,0.06645,14.85,18.34,4,2,8,75.2,143.8,0.5316
+PH10138,Loratadine 10mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,180,37.8,39.1,19.7,0.02912,5.31,15.9,6,3,18,74.1,120.58,0.52416
+PH10139,Prednisolone 25mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,49.4,29.6,30.4,0.04445,12.44,23.77,8,3,24,106.19999999999999,323.56,1.0668000000000002
+PH10140,Sertraline 50mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,60,57.7,43.1,34.7,0.08629,24.99,9.19,3,4,12,153.8,324.88,1.0354800000000002
+PH10141,Clopidogrel 75mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,56.0,44.9,27.4,0.06889,19.07,5.92,4,5,20,152.0,406.4,1.3778000000000001
+PH10142,Rosuvastatin 10mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,240,56.3,39.4,33.5,0.07431,19.24,23.41,4,3,12,115.5,255.88,0.8917200000000001
+PH10143,Ciprofloxacin 250mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,46.6,28.0,34.2,0.04462,12.85,21.01,8,3,24,117.60000000000001,333.4,1.07088
+PH10144,Losartan 100mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,58.2,37.9,19.4,0.04279,6.51,7.92,4,6,24,131.39999999999998,181.24,1.02696
+PH10145,Metformin 850mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,120,38.1,26.8,22.6,0.02308,5.26,12.44,9,5,45,128.0,261.7,1.0386
+PH10146,Cetirizine 10mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,100,34.4,29.7,21.4,0.02186,4.04,7.87,9,4,36,100.6,170.44,0.78696
+PH10148,Ibuprofen 200mg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,240,31.9,42.2,27.5,0.03702,10.56,9.25,6,4,24,125.0,278.44,0.8884799999999999
+PH10149,Simvastatin 20mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,58.8,40.1,19.5,0.04598,12.55,16.8,4,6,24,132.0,326.20000000000005,1.10352
+PH10150,Bisoprolol 2.5mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,51.9,30.7,15.4,0.02454,4.81,12.56,6,7,42,122.8,227.01999999999998,1.03068
+PH10151,Pantoprazole 40mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,240,56.4,30.0,28.6,0.04839,8.1,17.0,5,3,15,100.80000000000001,146.5,0.72585
+PH10152,Clopidogrel 75mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,120,31.2,30.6,32.7,0.03122,7.37,20.61,9,4,36,145.8,290.32,1.12392
+PH10153,Esomeprazole 40mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,180,50.2,41.5,29.6,0.06167,9.82,8.57,4,5,20,163.0,221.4,1.2334
+PH10154,Amlodipine 10mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,120,38.4,34.4,21.6,0.02853,6.26,16.81,6,6,36,144.60000000000002,250.35999999999999,1.02708
+PH10155,Telmisartan 40mg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,60,35.7,34.1,21.8,0.02654,4.22,12.82,6,5,30,124.0,151.6,0.7962
+PH10156,Metformin 500mg Tablets 10x10,Dunmore Therapeutics,Pharma,Tablets,Below 25C,240,51.2,42.5,25.1,0.05462,15.2,22.59,4,3,12,90.30000000000001,207.39999999999998,0.65544
+PH10157,Levothyroxine 100mcg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,30.9,42.6,28.2,0.03712,6.22,13.25,6,3,18,99.6,136.95999999999998,0.66816
+PH10158,Losartan 50mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,120,32.0,33.3,18.2,0.01939,5.53,17.15,9,4,36,87.8,224.08,0.69804
+PH10159,Glimepiride 2mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,49.2,44.6,26.2,0.05749,12.48,18.08,4,5,20,146.0,274.6,1.1498
+PH10160,Ibuprofen 400mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,100,43.0,28.8,16.1,0.01994,4.29,3.54,8,9,72,159.9,333.88,1.43568
+PH10161,Escitalopram 20mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,240,46.7,26.8,29.5,0.03692,6.11,2.61,8,3,24,103.5,171.64000000000001,0.88608
+PH10162,Levothyroxine 50mcg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,33.7,43.8,20.5,0.03026,5.26,15.66,6,6,36,138.0,214.35999999999999,1.0893599999999999
+PH10163,Telmisartan 40mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,100,43.9,44.2,31.6,0.06132,13.35,2.08,4,2,8,78.2,131.8,0.49056
+PH10164,Simvastatin 20mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,55.5,30.1,23.6,0.03942,9.26,12.57,6,3,18,85.80000000000001,191.68,0.70956
+PH10165,Losartan 50mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,240,53.3,34.8,31.9,0.05917,13.22,2.83,4,4,16,142.6,236.52,0.94672
+PH10166,Clopidogrel 75mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,41.6,32.4,31.0,0.04178,11.45,20.68,6,4,24,139.0,299.79999999999995,1.00272
+PH10167,Esomeprazole 20mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,32.0,41.0,18.0,0.02362,3.83,23.56,6,7,42,141.0,185.86,0.9920399999999999
+PH10168,Carvedilol 6.25mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,100,55.8,34.1,19.2,0.03653,5.86,9.48,2,3,6,72.6,60.160000000000004,0.21917999999999999
+PH10169,Allopurinol 300mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,100,31.5,26.1,32.4,0.02664,6.72,9.25,12,2,24,79.8,186.28,0.63936
+PH10170,Ciprofloxacin 500mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,50.0,42.6,33.5,0.07136,13.0,14.96,4,3,12,115.5,181.0,0.8563200000000001
+PH10171,Sertraline 100mg Tablets 10x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,38.5,29.2,24.9,0.02799,5.5,10.89,9,5,45,139.5,272.5,1.25955
+PH10172,Pantoprazole 20mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,36.8,39.3,19.5,0.0282,4.97,7.23,6,5,30,112.5,174.1,0.846
+PH10173,Carvedilol 25mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,240,38.2,31.8,20.6,0.02502,3.94,6.64,9,4,36,97.4,166.84,0.90072
+PH10174,Glimepiride 4mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,240,37.5,40.4,17.6,0.02666,6.81,6.11,6,6,36,120.60000000000001,270.15999999999997,0.95976
+PH10175,Ciprofloxacin 500mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,60,49.0,32.0,16.5,0.02587,6.8,22.78,5,4,20,81.0,161.0,0.5174
+PH10176,Ibuprofen 400mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,36.3,34.7,29.4,0.03703,7.34,8.75,6,3,18,103.19999999999999,157.12,0.66654
+PH10177,Allopurinol 100mg Tablets 2x14,Arcadine Pharma,Pharma,Tablets,Below 25C,60,50.1,37.5,28.7,0.05392,8.93,16.67,4,3,12,101.1,132.16,0.6470400000000001
+PH10178,Losartan 100mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,40.2,31.4,31.5,0.03976,10.38,21.95,6,2,12,78.0,149.56,0.47712
+PH10179,Warfarin 1mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,60,50.0,39.4,17.2,0.03388,9.05,4.26,6,4,24,83.8,242.20000000000002,0.8131200000000001
+PH10180,Paracetamol 500mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,36.2,44.0,17.9,0.02851,4.57,18.94,4,6,24,122.39999999999999,134.68,0.68424
+PH10181,Azithromycin 250mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,240,58.5,39.0,22.3,0.05088,12.81,8.16,4,4,16,104.2,229.96,0.81408
+PH10182,Allopurinol 100mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,120,52.6,43.1,27.8,0.06302,12.5,24.13,2,3,6,98.4,100.0,0.37812
+PH10183,Metoprolol 100mg Tablets 10x10,Dunmore Therapeutics,Pharma,Tablets,Below 25C,60,48.6,27.0,26.2,0.03438,6.75,7.73,8,3,24,93.6,187.0,0.8251200000000001
+PH10184,Levothyroxine 50mcg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,180,38.1,29.4,18.9,0.02117,3.89,21.23,9,6,54,128.39999999999998,235.06,1.14318
+PH10185,Atorvastatin 20mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,43.1,28.1,27.5,0.03331,8.89,9.08,7,3,21,97.5,211.69,0.69951
+PH10186,Levothyroxine 50mcg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,48.6,33.9,34.9,0.0575,17.22,6.27,6,2,12,84.8,231.64,0.6900000000000001
+PH10187,Prednisolone 25mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,180,38.8,27.4,34.8,0.037,8.57,22.33,8,4,32,154.2,299.24,1.184
+PH10188,Atorvastatin 10mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,46.4,25.3,21.5,0.02524,5.11,11.84,8,3,24,79.5,147.64000000000001,0.60576
+PH10189,Atorvastatin 40mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,100,30.3,37.5,32.0,0.03636,7.62,8.07,9,4,36,143.0,299.32,1.3089600000000001
+PH10190,Atorvastatin 20mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,47.2,28.6,21.1,0.02848,5.44,7.47,8,5,40,120.5,242.60000000000002,1.1392
+PH10191,Allopurinol 300mg Tablets 3x10,Corvane Pharma,Pharma,Tablets,Below 25C,240,46.1,41.2,30.9,0.05869,11.73,11.25,3,4,12,138.6,165.76,0.70428
+PH10192,Cetirizine 10mg Tablets 30s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,35.7,28.5,29.8,0.03032,4.7,18.55,9,5,45,164.0,236.5,1.3644
+PH10193,Montelukast 10mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,120,35.4,33.3,23.7,0.02794,5.37,15.9,9,4,36,109.8,218.32,1.00584
+PH10194,Ciprofloxacin 250mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,120,37.7,36.7,32.0,0.04427,7.33,15.71,6,3,18,111.0,156.94,0.7968599999999999
+PH10195,Pantoprazole 20mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,60.0,41.1,25.4,0.06264,17.63,18.98,4,2,8,65.8,166.04,0.50112
+PH10196,Warfarin 5mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,53.1,34.4,16.0,0.02923,6.08,16.92,4,9,36,159.0,243.88,1.0522799999999999
+PH10197,Warfarin 1mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,60,34.0,30.4,19.5,0.02016,4.96,11.19,9,3,27,73.5,158.92,0.54432
+PH10198,Bisoprolol 2.5mg Tablets 30s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,120,42.8,27.5,23.6,0.02778,7.53,3.46,8,6,48,156.60000000000002,386.44,1.33344
+PH10199,Levothyroxine 100mcg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,180,54.0,40.9,28.2,0.06228,10.18,23.19,4,3,12,99.6,147.16,0.74736
+PH10200,Escitalopram 20mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,120,42.3,43.9,24.5,0.0455,8.04,11.88,4,5,20,137.5,185.79999999999998,0.9099999999999999
+PH10201,Montelukast 10mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,120,36.2,43.1,32.0,0.04993,13.57,2.54,6,4,24,143.0,350.68,1.19832
+PH10202,Telmisartan 40mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,180,30.1,28.7,33.6,0.02903,4.95,15.19,12,3,36,115.80000000000001,203.20000000000002,1.04508
+PH10203,Atorvastatin 40mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,100,36.0,37.4,34.5,0.04645,8.11,8.48,6,3,18,118.5,170.98,0.8361
+PH10204,Warfarin 5mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,180,44.4,29.3,15.1,0.01964,4.11,7.22,8,5,40,90.5,189.4,0.7856000000000001
+PH10205,Glimepiride 2mg Tablets 10x10,Arcadine Pharma,Pharma,Tablets,Below 25C,180,48.2,33.3,20.6,0.03306,8.85,22.64,6,5,30,118.0,290.5,0.9918
+PH10206,Glimepiride 4mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,100,47.8,30.0,31.9,0.04574,13.32,10.59,8,2,16,78.8,238.12,0.73184
+PH10207,Sertraline 100mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,240,43.4,33.2,25.1,0.03617,10.52,17.43,6,2,12,65.2,151.24,0.43404
+PH10208,Allopurinol 100mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,120,59.6,39.0,21.5,0.04997,10.38,11.58,3,4,12,101.0,149.56,0.59964
+PH10209,Losartan 50mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,240,50.7,31.1,23.9,0.03768,8.98,15.24,6,3,18,86.69999999999999,186.64000000000001,0.67824
+PH10210,Losartan 100mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,40.5,32.4,15.8,0.02073,3.69,5.05,6,9,54,157.20000000000002,224.26,1.1194199999999999
+PH10211,Esomeprazole 20mg Tablets 10x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,44.5,34.4,24.2,0.03705,7.75,9.56,6,3,18,87.6,164.5,0.6669
+PH10212,Esomeprazole 20mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,60,48.7,25.7,29.1,0.03642,9.31,16.59,8,2,16,73.2,173.96,0.58272
+PH10213,Rosuvastatin 5mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,60,52.6,27.8,26.4,0.0386,9.47,13.62,6,5,30,147.0,309.1,1.1580000000000001
+PH10214,Furosemide 40mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,120,54.1,32.0,23.2,0.04016,6.45,24.05,4,4,16,107.8,128.2,0.64256
+PH10215,Bisoprolol 5mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,120,54.7,42.0,24.8,0.05698,16.99,19.38,4,2,8,64.6,160.92,0.45584
+PH10216,Metoprolol 50mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,32.7,41.0,24.1,0.03231,7.21,19.17,6,3,18,87.30000000000001,154.78,0.58158
+PH10217,Paracetamol 500mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,240,43.2,25.2,27.1,0.0295,7.46,16.07,8,5,40,150.5,323.4,1.18
+PH10218,Ibuprofen 400mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,60,37.4,25.9,31.3,0.03032,6.3,20.05,9,2,18,77.6,138.39999999999998,0.54576
+PH10219,Warfarin 1mg Tablets 10x10,Venrick Laboratories,Pharma,Tablets,Below 25C,180,55.7,28.1,24.6,0.0385,9.61,17.06,6,4,24,113.4,255.64,0.9239999999999999
+PH10220,Metformin 500mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,120,58.7,27.5,27.3,0.04407,9.58,3.61,6,5,30,151.5,312.4,1.3220999999999998
+PH10221,Rosuvastatin 10mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,120,41.5,25.0,29.3,0.0304,8.62,7.68,8,5,40,161.5,369.79999999999995,1.216
+PH10222,Escitalopram 10mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,120,30.8,31.4,23.8,0.02302,4.18,18.68,9,6,54,157.8,250.71999999999997,1.24308
+PH10223,Metformin 850mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,44.8,37.1,17.9,0.02975,4.67,10.58,4,3,12,68.69999999999999,81.03999999999999,0.357
+PH10224,Telmisartan 80mg Tablets 2x14,Halvora Healthcare,Pharma,Tablets,Below 25C,100,47.8,36.6,21.1,0.03691,9.9,16.63,6,3,18,78.30000000000001,203.20000000000002,0.66438
+PH10225,Metoprolol 100mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,120,43.3,28.6,19.5,0.02415,6.15,5.39,8,7,56,151.5,369.40000000000003,1.3524
+PH10226,Esomeprazole 40mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,240,34.2,41.9,28.1,0.04027,9.38,10.5,6,5,30,155.5,306.40000000000003,1.2081
+PH10227,Metformin 850mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,36.7,31.8,28.9,0.03373,9.98,18.76,9,3,27,101.69999999999999,294.46000000000004,0.9107100000000001
+PH10228,Metformin 500mg Tablets 30s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,32.3,30.1,17.4,0.01692,2.61,16.73,9,5,45,102.0,142.45,0.7614000000000001
+PH10229,Loratadine 10mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,100,50.6,36.2,17.1,0.03132,8.95,24.25,4,4,16,83.4,168.2,0.50112
+PH10230,Losartan 50mg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,60,56.2,39.2,18.5,0.04076,11.86,24.87,4,7,28,144.5,357.08,1.1412799999999999
+PH10231,Furosemide 40mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,100,39.3,43.8,18.2,0.03133,7.94,3.68,6,6,36,124.19999999999999,310.84000000000003,1.1278799999999998
+PH10232,Azithromycin 500mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,240,46.6,33.8,21.2,0.03339,6.08,21.18,4,7,28,163.4,195.24,0.9349200000000001
+PH10233,Azithromycin 250mg Tablets 30s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,100,49.5,44.6,18.9,0.04173,12.01,11.74,4,5,20,109.5,265.2,0.8346
+PH10234,Atorvastatin 20mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,180,53.5,34.7,31.4,0.05829,11.31,11.82,4,3,12,109.19999999999999,160.72,0.69948
+PH10235,Amlodipine 10mg Tablets 2x14,Venrick Laboratories,Pharma,Tablets,Below 25C,60,34.5,30.5,29.3,0.03083,8.82,7.9,9,3,27,102.9,263.14,0.83241
+PH10236,Losartan 100mg Tablets 30s,Corvane Pharma,Pharma,Tablets,Below 25C,240,52.3,28.1,28.5,0.04188,10.82,8.87,6,3,18,100.5,219.76,0.7538400000000001
+PH10237,Ciprofloxacin 500mg Tablets 30s,Venrick Laboratories,Pharma,Tablets,Below 25C,240,52.5,31.3,26.2,0.04305,8.8,10.12,6,4,24,119.8,236.20000000000002,1.0332
+PH10238,Bisoprolol 2.5mg Tablets 100s,Venrick Laboratories,Pharma,Tablets,Below 25C,120,50.2,29.3,27.4,0.0403,6.31,14.35,6,4,24,124.6,176.44,0.9672000000000001
+PH10239,Esomeprazole 20mg Tablets 100s,Arcadine Pharma,Pharma,Tablets,Below 25C,100,45.1,38.7,25.8,0.04503,7.54,15.58,6,5,30,144.0,251.2,1.3509
+PH10240,Esomeprazole 40mg Tablets 10x10,Corvane Pharma,Pharma,Tablets,Below 25C,180,50.5,34.3,20.5,0.03551,8.13,24.86,4,7,28,158.5,252.64000000000001,0.99428
+PH10241,Escitalopram 10mg Tablets 10x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,60,51.6,28.3,32.0,0.04673,8.88,23.68,5,3,15,111.0,158.20000000000002,0.70095
+PH10242,Escitalopram 10mg Tablets 2x14,Corvane Pharma,Pharma,Tablets,Below 25C,60,50.4,29.7,21.9,0.03278,5.67,22.03,6,5,30,124.5,195.1,0.9833999999999999
+PH10243,Azithromycin 250mg Tablets 2x14,Arcadine Pharma,Pharma,Tablets,Below 25C,60,48.3,33.9,25.4,0.04159,8.74,6.06,6,5,30,142.0,287.2,1.2477
+PH10244,Furosemide 40mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,240,34.4,25.5,26.1,0.02289,3.94,15.28,9,2,18,67.2,95.92,0.41202
+PH10245,Warfarin 5mg Tablets 3x10,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,58.3,37.1,30.5,0.06597,19.64,10.01,4,3,12,106.5,260.68,0.79164
+PH10246,Metoprolol 100mg Tablets 3x10,Halvora Healthcare,Pharma,Tablets,Below 25C,100,35.2,36.4,17.4,0.02229,6.31,7.55,5,8,40,154.2,277.4,0.8916000000000001
+PH10247,Prednisolone 5mg Tablets 30s,Arcadine Pharma,Pharma,Tablets,Below 25C,60,47.2,38.5,23.1,0.04198,10.47,15.54,6,5,30,130.5,339.1,1.2594
+PH10248,Prednisolone 5mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,240,54.0,26.8,32.6,0.04718,9.47,25.0,6,3,18,112.80000000000001,195.46,0.84924
+PH10249,Sertraline 100mg Tablets 3x10,Venrick Laboratories,Pharma,Tablets,Below 25C,100,38.6,31.9,31.7,0.03903,10.96,2.34,8,3,24,110.1,288.04,0.93672
+PH10250,Levothyroxine 100mcg Tablets 100s,Dunmore Therapeutics,Pharma,Tablets,Below 25C,240,51.7,26.6,18.4,0.025304048000000003,5.5,22.07,6,5,30,107.0,190.0,0.75912144
+PH10251,Rosuvastatin 5mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,180,42.4,36.0,17.2,0.02625,5.2,7.67,6,5,30,101.0,181.0,0.7875
+PH10252,Amlodipine 5mg Tablets 3x10,Arcadine Pharma,Pharma,Tablets,Below 25C,240,52.0,38.0,31.7,0.06264,17.4,10.1,3,4,12,141.8,233.79999999999998,0.75168
+PH10253,Metoprolol 50mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,240,47.1,26.5,19.2,0.02396,3.92,24.76,8,5,40,111.0,181.8,0.9583999999999999
+PH10254,Gliclazide 80mg Tablets 100s,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,57.1,32.8,31.5,0.059,10.04,16.62,6,4,24,141.0,265.96,1.416
+PH10255,Diclofenac 50mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,120,55.3,25.9,16.7,0.02392,3.92,19.34,6,5,30,98.5,142.6,0.7176
+PH10256,Telmisartan 80mg Tablets 10x10,Halvora Healthcare,Pharma,Tablets,Below 25C,120,37.3,40.0,20.8,0.03103,6.79,10.0,6,7,42,160.6,310.18,1.3032599999999999
+PH10257,Prednisolone 5mg Tablets 100s,Corvane Pharma,Pharma,Tablets,Below 25C,240,49.8,30.0,19.7,0.02943,6.89,16.56,8,4,32,93.8,245.48,0.94176
+PH10258,Carvedilol 6.25mg Tablets 2x14,Marwick Pharmaceuticals,Pharma,Tablets,Below 25C,120,58.0,30.8,30.0,0.05359,11.82,11.32,6,2,12,75.0,166.84,0.64308
+PH10259,Glimepiride 2mg Tablets 2x14,Arcadine Pharma,Pharma,Tablets,Below 25C,240,55.2,25.4,29.7,0.04164,6.37,16.08,6,3,18,104.1,139.66,0.7495200000000001
+PH10260,Clopidogrel 75mg Tablets 100s,Halvora Healthcare,Pharma,Tablets,Below 25C,100,42.2,26.4,30.9,0.03443,6.71,20.48,6,4,24,138.6,186.04,0.82632
+PH10261,Fish Oil Omega-3 1000mg Capsules 10x10,Venrick Laboratories,Pharma,Capsules,Below 25C,120,52.1,25.4,21.1,0.02792,7.13,21.25,6,5,30,120.5,238.9,0.8376
+PH10262,Itraconazole 100mg Capsules 2x14,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,120,37.0,35.8,29.1,0.03855,8.86,9.57,6,2,12,73.2,131.32,0.4626
+PH10263,Fluoxetine 20mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,38.4,30.6,27.6,0.03243,5.37,27.66,9,3,27,97.80000000000001,169.99,0.87561
+PH10264,Vitamin D3 1000IU Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,60,44.9,39.2,20.8,0.03661,6.19,10.6,5,7,35,160.6,241.65,1.28135
+PH10265,Cefalexin 500mg Capsules 30s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,40.3,36.3,23.1,0.03379,9.45,16.52,6,3,18,84.30000000000001,195.1,0.60822
+PH10266,Itraconazole 100mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,200,43.5,25.1,26.4,0.02882,4.56,4.54,8,3,24,94.19999999999999,134.44,0.69168
+PH10267,Pregabalin 150mg Capsules 2x14,Solandra Health,Pharma,Capsules,Below 25C,60,40.7,33.5,16.2,0.02209,5.53,20.66,6,5,30,96.0,190.9,0.6627
+PH10268,Fluoxetine 20mg Capsules 30s,Venrick Laboratories,Pharma,Capsules,Below 25C,60,51.2,38.6,29.8,0.05889,8.37,15.79,4,2,8,74.6,91.96,0.47112
+PH10269,Cefalexin 250mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,200,37.0,25.9,24.3,0.02329,4.62,20.7,9,5,45,136.5,232.9,1.0480500000000001
+PH10270,Doxycycline 100mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,200,30.2,30.3,16.7,0.01528,3.19,23.99,9,6,54,115.19999999999999,197.26,0.82512
+PH10271,Vitamin D3 1000IU Capsules 10x10,Venrick Laboratories,Pharma,Capsules,Below 25C,120,48.3,39.8,28.5,0.05479,7.81,23.66,6,3,18,100.5,165.57999999999998,0.98622
+PH10272,Amoxicillin 500mg Capsules 10x10,Solandra Health,Pharma,Capsules,Below 25C,120,45.4,39.0,17.8,0.03152,4.7,20.09,6,6,36,121.80000000000001,194.20000000000002,1.13472
+PH10273,Amoxicillin 250mg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,100,38.1,33.0,20.7,0.02603,4.69,12.02,9,5,45,118.5,236.05,1.1713500000000001
+PH10274,Amoxicillin 250mg Capsules 2x14,Solandra Health,Pharma,Capsules,Below 25C,200,49.1,31.8,25.5,0.03982,8.91,24.28,6,5,30,142.5,292.3,1.1946
+PH10275,Gabapentin 300mg Capsules 30s,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,60,34.6,37.6,18.7,0.02433,6.22,19.05,6,3,18,71.1,136.95999999999998,0.43794
+PH10276,Doxycycline 100mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,100,53.7,29.2,25.5,0.03999,8.48,27.32,6,5,30,142.5,279.4,1.1997
+PH10277,Tamsulosin 400mcg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,120,41.8,33.4,29.3,0.04091,9.54,13.24,6,5,30,161.5,311.2,1.2273
+PH10278,Itraconazole 100mg Capsules 10x10,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,200,51.7,39.5,20.8,0.04248,9.07,8.58,3,4,12,98.2,133.84,0.50976
+PH10279,Amoxicillin 500mg Capsules 3x10,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,60,52.3,35.1,21.6,0.03965,8.99,6.15,4,4,16,101.4,168.84,0.6344
+PH10280,Tamsulosin 400mcg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,39.8,37.1,17.1,0.02525,6.15,3.88,6,4,24,83.4,172.60000000000002,0.6060000000000001
+PH10281,Gabapentin 300mg Capsules 60s,Corvane Pharma,Pharma,Capsules,Below 25C,60,50.7,28.9,17.6,0.02579,5.91,27.93,6,3,18,67.80000000000001,131.38,0.46422
+PH10282,Omeprazole 40mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,120,39.7,26.6,19.4,0.02049,5.09,15.97,9,4,36,92.6,208.24,0.7376400000000001
+PH10283,Iron Folic 150mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,120,36.6,31.8,25.0,0.0291,7.2,17.2,8,4,32,115.0,255.4,0.9312
+PH10284,Iron Folic 150mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,60,42.2,32.7,20.2,0.02787,4.95,11.45,6,5,30,116.0,173.5,0.8361
+PH10285,Pregabalin 75mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,120,34.5,35.3,15.4,0.01875,3.35,15.31,6,4,24,76.6,105.4,0.44999999999999996
+PH10286,Itraconazole 100mg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,100,38.5,29.0,24.7,0.02758,5.28,25.75,9,5,45,138.5,262.6,1.2411
+PH10287,Gabapentin 300mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,200,53.7,36.1,20.3,0.03935,8.51,6.37,2,5,10,116.5,110.1,0.3935
+PH10288,Fluoxetine 20mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,100,42.2,31.2,19.2,0.02528,3.85,3.59,6,6,36,130.2,163.6,0.91008
+PH10289,Omeprazole 40mg Capsules 60s,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,100,32.8,39.6,17.6,0.02286,5.97,10.12,7,6,42,120.60000000000001,275.74,0.96012
+PH10290,Cefalexin 250mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,100,53.9,31.6,25.0,0.04258,7.14,9.4,4,4,16,115.0,139.24,0.68128
+PH10291,Omeprazole 40mg Capsules 30s,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,60,43.7,33.5,25.5,0.03733,5.81,28.49,6,2,12,66.0,94.72,0.44796
+PH10292,Iron Folic 150mg Capsules 3x10,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,120,49.0,33.6,16.7,0.02749,7.62,14.25,6,6,36,115.19999999999999,299.32,0.9896400000000001
+PH10293,Itraconazole 100mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,200,46.4,26.7,21.4,0.02651,5.33,22.13,8,5,40,122.0,238.2,1.0604
+PH10294,Pregabalin 150mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,200,32.2,28.8,16.9,0.01567,3.61,15.5,12,5,60,99.5,241.6,0.9402
+PH10295,Tamsulosin 400mcg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,200,44.5,34.2,20.0,0.03044,7.63,21.96,6,5,30,115.0,253.9,0.9131999999999999
+PH10296,Vitamin D3 1000IU Capsules 3x10,Venrick Laboratories,Pharma,Capsules,Below 25C,200,42.7,37.5,25.2,0.04035,7.89,20.73,5,2,10,65.4,103.89999999999999,0.40349999999999997
+PH10297,Amoxicillin 500mg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,60,31.8,32.6,23.1,0.02395,3.62,3.28,9,5,45,130.5,187.9,1.07775
+PH10298,Tamsulosin 400mcg Capsules 10x10,Venrick Laboratories,Pharma,Capsules,Below 25C,120,53.3,35.7,23.3,0.04434,10.46,19.1,4,3,12,84.9,150.52,0.53208
+PH10299,Iron Folic 150mg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,100,37.5,29.4,22.3,0.02459,6.56,18.9,9,4,36,104.2,261.15999999999997,0.88524
+PH10300,Iron Folic 150mg Capsules 2x14,Corvane Pharma,Pharma,Capsules,Below 25C,200,35.3,25.1,23.2,0.02056,4.79,6.32,9,3,27,84.6,154.33,0.55512
+PH10301,Doxycycline 100mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,100,45.0,36.2,15.5,0.02525,4.6,7.23,6,7,42,123.5,218.2,1.0605
+PH10302,Fish Oil Omega-3 1000mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,100,53.9,31.1,17.9,0.03001,7.68,8.0,6,3,18,68.69999999999999,163.24,0.54018
+PH10303,Omeprazole 40mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,100,46.8,38.7,20.8,0.03767,7.31,21.44,6,6,36,139.8,288.15999999999997,1.35612
+PH10305,Pregabalin 75mg Capsules 60s,Solandra Health,Pharma,Capsules,Below 25C,60,41.7,29.6,17.6,0.02172,3.37,13.79,8,7,56,138.20000000000002,213.72,1.21632
+PH10306,Omeprazole 40mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,60,42.7,29.6,26.2,0.033114703999999995,6.62,15.0,8,4,32,119.8,236.84,1.0596705279999998
+PH10307,Vitamin D3 1000IU Capsules 2x14,Corvane Pharma,Pharma,Capsules,Below 25C,200,42.7,29.5,21.2,0.0267,6.15,29.35,8,4,32,99.8,221.8,0.8544
+PH10308,Pregabalin 75mg Capsules 10x10,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,100,42.3,32.3,19.2,0.02623,4.4,15.57,6,3,18,72.6,104.2,0.47214
+PH10309,Fluoxetine 20mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,60,53.6,35.6,24.2,0.04618,8.74,7.05,2,4,8,111.8,94.92,0.36944
+PH10310,Amoxicillin 500mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,120,40.2,32.3,25.8,0.0335,7.51,16.24,6,5,30,144.0,250.29999999999998,1.0050000000000001
+PH10311,Gabapentin 300mg Capsules 3x10,Venrick Laboratories,Pharma,Capsules,Below 25C,120,40.3,34.3,21.7,0.03,6.87,10.55,6,5,30,123.5,231.1,0.8999999999999999
+PH10312,Amoxicillin 250mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,120,38.3,26.8,24.2,0.02484,6.78,12.38,9,3,27,87.6,208.06,0.67068
+PH10313,Cefalexin 250mg Capsules 30s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,36.4,29.2,24.6,0.02615,7.14,11.75,7,5,35,138.0,274.9,0.91525
+PH10314,Fish Oil Omega-3 1000mg Capsules 30s,Corvane Pharma,Pharma,Capsules,Below 25C,100,31.9,34.0,28.8,0.03124,4.45,27.11,8,3,24,101.4,131.8,0.74976
+PH10315,Cefalexin 250mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,200,43.4,36.3,29.9,0.04711,7.13,11.49,6,5,30,164.5,238.9,1.4133
+PH10316,Doxycycline 100mg Capsules 30s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,30.9,37.7,26.3,0.03064,6.96,16.08,9,2,18,67.6,150.28,0.55152
+PH10317,Omeprazole 20mg Capsules 60s,Corvane Pharma,Pharma,Capsules,Below 25C,200,31.7,39.8,17.8,0.02246,4.33,25.45,9,7,63,139.60000000000002,297.79,1.4149800000000001
+PH10318,Cefalexin 500mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,60,40.5,28.7,22.9,0.02662,7.29,9.08,8,5,40,129.5,316.6,1.0648
+PH10319,Cefalexin 500mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,120,50.3,38.8,29.9,0.05835,13.07,17.28,3,3,9,104.69999999999999,142.63,0.52515
+PH10320,Tamsulosin 400mcg Capsules 3x10,Venrick Laboratories,Pharma,Capsules,Below 25C,60,51.1,26.0,21.8,0.02896,5.44,8.43,6,5,30,124.0,188.20000000000002,0.8688
+PH10321,Cefalexin 250mg Capsules 2x14,Venrick Laboratories,Pharma,Capsules,Below 25C,120,40.3,27.3,17.5,0.01925,3.07,7.54,8,6,48,120.0,172.35999999999999,0.9239999999999999
+PH10322,Fluoxetine 20mg Capsules 10x10,Marwick Pharmaceuticals,Pharma,Capsules,Below 25C,200,32.3,29.9,23.3,0.0225,5.16,12.55,12,6,72,154.8,396.52,1.6199999999999999
+PH10323,Amoxicillin 250mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,100,41.1,28.3,25.5,0.02966,7.78,27.11,8,4,32,117.0,273.96000000000004,0.94912
+PH10324,Omeprazole 20mg Capsules 3x10,Corvane Pharma,Pharma,Capsules,Below 25C,60,48.1,26.3,20.2,0.02555,3.94,9.17,8,5,40,116.0,182.6,1.022
+PH10325,Omeprazole 20mg Capsules 10x10,Venrick Laboratories,Pharma,Capsules,Below 25C,60,41.2,38.0,27.6,0.04321,11.68,9.64,6,4,24,125.4,305.32,1.03704
+PH10326,Cefalexin 500mg Capsules 60s,Solandra Health,Pharma,Capsules,Below 25C,100,30.9,29.9,21.6,0.01996,3.03,19.87,12,3,36,79.80000000000001,134.07999999999998,0.71856
+PH10327,Vitamin D3 1000IU Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,60,40.0,35.5,28.5,0.04047,10.91,28.24,6,2,12,72.0,155.92000000000002,0.48563999999999996
+PH10328,Amoxicillin 250mg Capsules 10x10,Corvane Pharma,Pharma,Capsules,Below 25C,60,46.0,38.3,20.0,0.03524,6.59,15.26,6,3,18,75.0,143.62,0.63432
+PH10329,Pregabalin 150mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,120,38.1,28.2,21.6,0.02321,4.31,24.79,9,6,54,144.60000000000002,257.74,1.2533400000000001
+PH10330,Fish Oil Omega-3 1000mg Capsules 60s,Venrick Laboratories,Pharma,Capsules,Below 25C,60,50.8,29.9,27.0,0.04101,8.8,7.66,6,5,30,150.0,289.0,1.2303
+PH10331,Cetirizine 5mg/5ml Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,40.6,24.4,23.4,0.02318,13.92,6.94,8,3,24,85.19999999999999,359.08,0.5563199999999999
+PH10332,Paracetamol 120mg/5ml Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,24,34.3,25.5,16.6,0.01452,11.39,3.26,7,7,49,131.20000000000002,583.11,0.71148
+PH10333,Cough Expectorant Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,45.0,21.6,19.4,0.01886,14.68,6.47,10,4,40,92.6,612.2,0.7544
+PH10334,Multivitamin Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,40.6,20.4,15.2,0.01259,8.25,8.59,10,7,70,121.39999999999999,602.5,0.8813000000000001
+PH10335,Iron Tonic Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,33.3,25.7,18.3,0.01566,8.82,4.69,12,6,72,124.80000000000001,765.88,1.12752
+PH10336,Iron Tonic Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,48,40.9,22.5,20.9,0.01923,15.14,5.3,8,5,40,119.5,751.72,0.7692
+PH10338,Paracetamol 120mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,30.8,30.3,16.8,0.01568,11.82,3.6,8,7,56,132.60000000000002,686.9200000000001,0.87808
+PH10339,Amoxicillin 125mg/5ml Dry Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,42.6,21.4,15.1,0.01377,8.79,4.4,10,7,70,120.7,640.3,0.9639
+PH10340,Loratadine 5mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,41.2,29.9,15.9,0.01959,15.04,6.84,6,8,48,142.2,837.16,0.94032
+PH10342,Ibuprofen 100mg/5ml Suspension 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,43.7,26.2,18.2,0.02084,15.91,6.03,8,5,40,106.0,915.96,0.8336
+PH10343,Cough Expectorant Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,33.0,34.9,23.6,0.02718,19.58,8.47,7,3,21,85.80000000000001,436.17999999999995,0.57078
+PH10344,Cetirizine 5mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,42.4,29.2,19.1,0.02365,15.06,9.19,8,5,40,110.5,627.4,0.9460000000000001
+PH10345,Lactulose 3.3g/5ml Solution 100ml,Solandra Health,Pharma,Syrups,Below 25C,24,44.9,33.1,17.1,0.02541,19.59,5.42,4,6,24,117.60000000000001,495.15999999999997,0.6098399999999999
+PH10346,Salbutamol 2mg/5ml Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,37.3,22.2,20.0,0.01656,9.5,8.5,12,5,60,115.0,595.0,0.9935999999999999
+PH10347,Iron Tonic Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,40.9,33.6,22.6,0.03106,19.95,11.78,6,5,30,128.0,623.5,0.9318000000000001
+PH10348,Cough Expectorant Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,34.2,27.0,21.2,0.01958,11.39,10.3,9,3,27,78.6,332.53000000000003,0.52866
+PH10349,Antacid Oral Suspension 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,40.5,22.2,21.5,0.01933,12.85,4.63,10,4,40,101.0,539.0,0.7732
+PH10350,Amoxicillin 125mg/5ml Dry Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,36.1,24.5,22.4,0.01981,14.05,11.26,10,5,50,127.0,727.5,0.9905
+PH10351,Antacid Oral Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,24,38.0,33.9,21.1,0.02718,20.82,3.9,6,4,24,99.4,524.6800000000001,0.65232
+PH10352,Paracetamol 120mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,37.3,24.3,17.6,0.01595,10.07,3.67,12,5,60,103.0,750.04,0.957
+PH10353,Multivitamin Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,33.5,25.4,19.0,0.01617,11.05,5.42,8,6,48,129.0,555.4000000000001,0.77616
+PH10354,Oral Rehydration Solution 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,35.3,30.1,22.5,0.02391,14.92,11.92,9,5,45,127.5,830.68,1.07595
+PH10355,Loratadine 5mg/5ml Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,31.9,32.0,18.0,0.01837,12.97,10.52,9,6,54,123.0,842.11,0.9919800000000001
+PH10356,Azithromycin 200mg/5ml Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,42.9,24.8,15.9,0.01692,9.34,9.97,8,6,48,110.4,473.32,0.81216
+PH10357,Amoxicillin 125mg/5ml Dry Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,60,41.6,31.1,25.0,0.03234,20.73,4.57,6,5,30,140.0,771.28,0.9702000000000001
+PH10358,Oral Rehydration Solution 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,36.7,20.2,21.1,0.01564,10.25,10.75,10,4,40,99.4,435.0,0.6256
+PH10359,Salbutamol 2mg/5ml Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,60,38.3,25.7,17.2,0.01693,13.27,10.5,9,6,54,118.19999999999999,980.4399999999999,0.91422
+PH10360,Cetirizine 5mg/5ml Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,38.2,30.9,17.3,0.02042,13.25,11.51,9,5,45,101.5,621.25,0.9189
+PH10361,Antacid Oral Suspension 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,36.6,21.8,18.4,0.01468,11.6,6.71,12,5,60,107.0,721.0,0.8808
+PH10362,Salbutamol 2mg/5ml Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,36.8,20.6,18.6,0.0141,10.93,5.27,12,5,60,108.0,680.8,0.846
+PH10363,Multivitamin Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,48,38.0,26.4,21.3,0.02137,14.97,10.88,9,5,45,121.5,833.38,0.96165
+PH10364,Loratadine 5mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,38.9,24.9,15.7,0.01521,9.66,3.72,12,6,72,109.19999999999999,952.36,1.0951199999999999
+PH10365,Ibuprofen 100mg/5ml Suspension 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,35.2,28.4,24.6,0.02459,18.76,6.86,9,2,18,64.2,362.68,0.44262
+PH10366,Lactulose 3.3g/5ml Solution 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,34.6,27.1,18.4,0.01725,13.69,8.92,9,5,45,107.0,887.4699999999999,0.7762500000000001
+PH10367,Zinc Sulfate Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,44.6,27.9,20.7,0.02576,16.09,6.42,8,5,40,118.5,797.3199999999999,1.0304
+PH10368,Lactulose 3.3g/5ml Solution 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,41.5,28.0,15.4,0.01789,12.94,10.3,8,4,32,76.6,439.08,0.57248
+PH10369,Ibuprofen 100mg/5ml Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,24,35.2,30.7,17.7,0.01913,11.97,3.12,7,3,21,68.1,276.37,0.40173000000000003
+PH10370,Zinc Sulfate Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,35.1,21.2,18.8,0.01399,9.79,7.42,12,4,48,90.2,494.91999999999996,0.67152
+PH10371,Glucose 4% + NaCl 0.18% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,50.6,36.5,22.4,0.04137,37.49,5.68,4,4,16,104.6,924.76,0.66192
+PH10372,Glucose 4% + NaCl 0.18% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,52.5,32.2,22.2,0.03753,32.89,1.96,6,3,18,81.6,814.36,0.67554
+PH10373,Compound Sodium Lactate IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.8,39.1,27.9,0.04996,49.79,5.06,5,2,10,70.8,771.85,0.4996
+PH10374,Sodium Chloride 0.45% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,45.2,30.6,27.9,0.03859,36.5,2.49,6,3,18,98.69999999999999,901.0,0.69462
+PH10375,Dextrose 5% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,52.7,30.7,21.3,0.03446,31.21,5.4,4,5,20,121.5,898.88,0.6891999999999999
+PH10376,Sodium Chloride 0.9% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.9,31.4,21.6,0.03113,31.1,3.88,6,3,18,79.80000000000001,958.0,0.5603400000000001
+PH10377,Dextrose 10% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.4,30.2,27.8,0.03812,36.84,4.32,6,3,18,98.4,909.1600000000001,0.68616
+PH10378,Sodium Chloride 0.9% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,48.8,32.6,25.9,0.0412,36.92,4.91,4,4,16,118.6,763.4000000000001,0.6592
+PH10379,Glucose 4% + NaCl 0.18% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,45.4,37.3,24.1,0.04081,40.35,5.5,6,2,12,63.2,751.3000000000001,0.48972
+PH10380,Compound Sodium Lactate IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,50.2,30.5,28.1,0.04302,36.84,3.24,5,3,15,99.30000000000001,577.6,0.6453
+PH10381,Dextrose 5% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,41.5,34.5,20.6,0.02949,27.86,2.29,6,4,24,97.4,860.8,0.70776
+PH10382,Glucose 4% + NaCl 0.18% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,42.6,33.6,21.8,0.0312,28.69,3.92,6,3,18,80.4,541.4200000000001,0.5616
+PH10383,Sodium Chloride 0.45% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,57.0,39.9,20.7,0.04708,42.85,1.54,3,5,15,118.5,667.75,0.7061999999999999
+PH10384,Compound Sodium Lactate IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,58.7,33.9,25.1,0.04995,48.91,1.79,4,3,12,90.30000000000001,1003.1999999999999,0.5994
+PH10385,Glucose 4% + NaCl 0.18% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,40.6,31.8,26.3,0.03396,31.6,5.56,5,4,20,120.2,657.0,0.6791999999999999
+PH10386,Dextrose 10% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,43.7,34.3,28.4,0.04257,40.95,3.45,6,2,12,71.8,516.4000000000001,0.51084
+PH10387,Dextrose 10% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,55.0,31.3,21.2,0.0365,33.54,3.95,6,3,18,78.6,829.96,0.6569999999999999
+PH10388,Dextrose 10% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,59.8,39.0,25.0,0.0583,52.58,1.74,2,4,8,115.0,445.64,0.4664
+PH10389,Sodium Chloride 0.45% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,42.8,35.1,24.4,0.03666,36.5,1.99,5,3,15,88.19999999999999,755.0,0.5498999999999999
+PH10390,Compound Sodium Lactate IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.6,38.4,24.1,0.0422,41.51,2.03,6,2,12,63.2,1021.24,0.5064
+PH10391,Compound Sodium Lactate IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,58.6,33.8,28.2,0.05586,50.39,3.7,4,3,12,99.6,629.6800000000001,0.67032
+PH10392,Sodium Chloride 0.9% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.2,32.9,20.6,0.03063,28.09,2.72,5,4,20,97.4,586.8,0.6126
+PH10393,Dextrose 5% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,41.6,35.5,26.9,0.03973,37.6,2.15,6,3,18,95.69999999999999,927.4000000000001,0.71514
+PH10394,Dextrose 10% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,49.2,35.2,24.1,0.04174,38.83,4.03,6,3,18,87.30000000000001,956.92,0.75132
+PH10395,Dextrose 5% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,58.1,32.5,28.3,0.05344,52.24,4.18,6,2,12,71.6,965.32,0.6412800000000001
+PH10396,Hydrocortisone 100mg Vial 1s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,40.7,34.3,24.3,0.03392,4.96,22.3,6,6,36,160.8,203.56,1.22112
+PH10397,Pantoprazole 40mg Vial 10s,Tessaline Biologics,Pharma,Injections,Below 25C,100,30.2,22.1,21.9,0.01462,2.91,11.05,14,3,42,80.69999999999999,147.22,0.6140399999999999
+PH10398,Heparin 5000IU/ml 5ml Vial 10s,Tessaline Biologics,Pharma,Injections,2-8C,200,35.6,25.2,13.2,0.01184,1.85,6.26,7,9,63,133.8,141.55,0.74592
+PH10399,Enoxaparin 40mg Prefilled Syringe 1s,Clearford Infusions,Pharma,Injections,Below 25C,100,34.8,31.2,15.4,0.01672,4.03,37.09,9,8,72,138.2,315.16,1.20384
+PH10400,Pantoprazole 40mg Vial 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,38.2,23.4,20.4,0.01824,2.23,17.6,12,6,72,137.39999999999998,185.56,1.31328
+PH10401,Lidocaine 2% 5ml Ampoule 10s,Dunmore Therapeutics,Pharma,Injections,Below 25C,100,26.4,33.9,15.5,0.01387,2.97,38.26,8,5,40,92.5,143.8,0.5548
+PH10402,Cefuroxime 750mg Vial 10s,Clearford Infusions,Pharma,Injections,Below 25C,200,33.1,25.5,13.1,0.01106,1.35,28.33,12,6,72,93.6,122.2,0.79632
+PH10403,Amikacin 500mg/2ml Vial 5s,Tessaline Biologics,Pharma,Injections,Below 25C,50,30.4,32.7,21.8,0.02167,4.52,38.8,9,5,45,124.0,228.39999999999998,0.97515
+PH10404,Tramadol 100mg/2ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,50,41.8,23.0,12.8,0.01231,1.75,16.94,10,11,110,155.8,217.5,1.3541
+PH10405,Metoclopramide 10mg/2ml Ampoule 5s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,38.4,22.5,14.8,0.01279,1.88,7.28,11,4,44,74.2,107.72,0.5627599999999999
+PH10406,Dexamethasone 4mg/ml Ampoule 5s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,41.9,30.6,13.8,0.01769,3.98,21.27,6,6,36,97.80000000000001,168.28,0.6368400000000001
+PH10407,Pantoprazole 40mg Vial 5s,Dunmore Therapeutics,Pharma,Injections,Below 25C,50,40.6,24.7,17.2,0.01725,4.22,16.3,8,4,32,83.8,160.04,0.552
+PH10408,Tramadol 100mg/2ml Ampoule 5s,Tessaline Biologics,Pharma,Injections,Below 25C,100,32.6,31.1,20.7,0.02099,5.01,28.12,9,4,36,97.8,205.35999999999999,0.7556400000000001
+PH10409,Lidocaine 2% 5ml Ampoule 5s,Clearford Infusions,Pharma,Injections,Below 25C,200,25.7,28.6,18.1,0.0133,2.4,20.51,12,4,48,87.4,140.2,0.6384
+PH10410,Ondansetron 4mg/2ml Ampoule 10s,Tessaline Biologics,Pharma,Injections,Below 25C,100,30.5,34.5,20.6,0.02168,4.54,10.58,9,6,54,138.60000000000002,270.15999999999997,1.17072
+PH10411,Cefuroxime 750mg Vial 5s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,27.8,26.7,18.7,0.01388,2.3,29.77,11,5,55,108.5,151.5,0.7634
+PH10412,Lidocaine 2% 5ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,31.3,31.8,20.3,0.02021,3.9,33.68,9,5,45,116.5,200.5,0.90945
+PH10413,Metoclopramide 10mg/2ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,100,29.4,24.7,21.5,0.01561,3.87,22.14,16,4,64,101.0,272.68,0.99904
+PH10414,Furosemide 20mg/2ml Ampoule 5s,Tessaline Biologics,Pharma,Injections,Below 25C,100,42.1,20.3,20.5,0.01752,2.67,25.08,10,4,40,97.0,131.8,0.7008000000000001
+PH10415,Metoclopramide 10mg/2ml Ampoule 10s,Clearford Infusions,Pharma,Injections,2-8C,50,25.7,27.7,19.2,0.01367,2.68,36.67,12,5,60,111.0,185.8,0.8202
+PH10416,Heparin 5000IU/ml 5ml Vial 1s,Tessaline Biologics,Pharma,Injections,Below 25C,200,37.3,28.5,17.0,0.01807,3.7,30.57,9,5,45,100.0,191.5,0.8131499999999999
+PH10417,Ketorolac 30mg/ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,26.7,34.9,22.3,0.02078,2.92,31.92,9,4,36,104.2,130.12,0.74808
+PH10418,Ketorolac 30mg/ml Ampoule 10s,Tessaline Biologics,Pharma,Injections,Below 25C,200,30.9,23.0,16.9,0.01201,2.6,20.65,15,6,90,116.39999999999999,259.0,1.0809
+PH10419,Dexamethasone 4mg/ml Ampoule 10s,Clearford Infusions,Pharma,Injections,Below 25C,100,33.8,30.2,21.3,0.02174,5.33,11.01,9,5,45,121.5,264.85,0.9783
+PH10420,Enoxaparin 40mg Prefilled Syringe 10s,Tessaline Biologics,Pharma,Injections,Below 25C,100,27.4,30.0,15.1,0.01241,2.73,19.72,12,8,96,135.8,287.08,1.19136
+PH10421,Heparin 5000IU/ml 5ml Vial 5s,Tessaline Biologics,Pharma,Injections,Below 25C,200,38.4,20.7,18.8,0.01494,2.61,12.49,12,5,60,109.0,181.6,0.8964
+PH10422,Amikacin 500mg/2ml Vial 10s,Dunmore Therapeutics,Pharma,Injections,Below 25C,100,34.2,31.7,21.3,0.02309,3.99,38.6,9,6,54,142.8,240.46,1.2468599999999999
+PH10423,Enoxaparin 40mg Prefilled Syringe 5s,Dunmore Therapeutics,Pharma,Injections,Below 25C,100,41.2,23.9,20.3,0.01999,3.93,18.23,8,6,48,136.8,213.64000000000001,0.95952
+PH10424,Furosemide 20mg/2ml Ampoule 10s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,34.9,27.8,13.7,0.01329,3.21,4.27,9,5,45,83.5,169.45,0.59805
+PH10425,Dexamethasone 4mg/ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,2-8C,100,43.4,22.1,21.5,0.02062,3.02,4.85,8,3,24,79.5,97.48,0.49488
+PH10426,Ketorolac 30mg/ml Ampoule 5s,Clearford Infusions,Pharma,Injections,2-8C,100,36.3,31.3,22.7,0.02579,3.22,16.12,9,4,36,105.8,140.92000000000002,0.92844
+PH10427,Amikacin 500mg/2ml Vial 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,27.2,30.8,18.2,0.01525,3.57,20.48,12,3,36,69.6,153.51999999999998,0.5489999999999999
+PH10428,Hydrocortisone 100mg Vial 5s,Tessaline Biologics,Pharma,Injections,2-8C,100,25.2,22.7,19.8,0.01133,1.53,19.31,16,3,48,74.4,98.44,0.54384
+PH10429,Furosemide 20mg/2ml Ampoule 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,50,26.6,29.7,23.0,0.01817,4.38,37.9,12,3,36,84.0,182.68,0.6541199999999999
+PH10430,Tramadol 100mg/2ml Ampoule 10s,Tessaline Biologics,Pharma,Injections,Below 25C,200,31.9,31.2,14.6,0.01453,2.26,21.71,8,8,64,131.8,169.64,0.92992
+PH10431,Ceftriaxone 1g Vial 10s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,37.7,32.6,18.0,0.02212,3.69,21.38,9,5,45,105.0,191.05,0.9954000000000001
+PH10432,Cefuroxime 750mg Vial 1s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,33.5,28.4,24.8,0.02359,3.2,12.76,9,2,18,64.6,82.6,0.42462
+PH10433,Ceftriaxone 1g Vial 5s,Tessaline Biologics,Pharma,Injections,Below 25C,50,43.9,32.8,12.0,0.01728,3.26,16.89,4,9,36,123.0,142.35999999999999,0.62208
+PH10434,Ceftriaxone 1g Vial 1s,Tessaline Biologics,Pharma,Injections,2-8C,200,41.4,27.5,21.7,0.02471,5.06,16.57,8,4,32,101.8,186.92,0.79072
+PH10435,Ondansetron 4mg/2ml Ampoule 5s,Dunmore Therapeutics,Pharma,Injections,Below 25C,200,35.4,21.9,22.2,0.01721,3.01,19.11,12,4,48,103.8,169.48,0.8260799999999999
+PH10436,Insulin Biphasic 30/70 100IU/ml 10ml Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,20,29.9,19.9,17.9,0.01065,2.61,82.81,20,7,140,140.29999999999998,390.4,1.4909999999999999
+PH10437,Hepatitis B Vaccine 10mcg Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,20,36.1,16.3,18.3,0.01077,2.33,49.27,18,6,108,124.80000000000001,276.64,1.16316
+PH10438,Insulin Isophane 100IU/ml 10ml Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,27.7,27.3,19.3,0.01459,2.85,38.68,11,3,33,72.9,119.05,0.48147
+PH10439,Insulin Lispro 100IU/ml 1x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,39.5,20.5,21.9,0.01773,3.21,74.46,12,5,60,124.5,217.6,1.0637999999999999
+PH10440,Insulin Aspart 100IU/ml 5x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,24.9,29.7,23.8,0.0176,4.26,106.56,16,4,64,110.2,297.64,1.1264
+PH10441,Rabies Vaccine 1ml Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,10,32.9,27.6,22.5,0.02043,3.24,29.68,12,5,60,127.5,219.4,1.2258
+PH10442,Insulin Lispro 100IU/ml 10ml Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,10,39.3,27.7,23.5,0.02558,4.87,63.35,9,2,18,62.0,112.66,0.46043999999999996
+PH10443,Insulin Isophane 100IU/ml 5x3ml Cartridge,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,36.6,23.3,18.9,0.01612,4.81,69.13,10,5,50,109.5,265.5,0.8059999999999999
+PH10444,Influenza Vaccine 0.5ml PFS,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,33.1,26.9,13.1,0.01166,3.41,66.05,12,5,60,80.5,229.60000000000002,0.6996
+PH10445,Insulin Glargine 100IU/ml 5x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,10,29.7,16.1,23.3,0.01114,2.39,81.54,24,6,144,154.8,369.16,1.60416
+PH10446,Insulin Glargine 100IU/ml 5x3ml Cartridge,Tessaline Biologics,Pharma,Cold Chain,2-8C,20,29.9,19.2,11.9,0.00683,1.77,30.94,19,7,133,98.3,260.40999999999997,0.90839
+PH10447,Insulin Aspart 100IU/ml 10ml Vial,Tessaline Biologics,Pharma,Cold Chain,2-8C,10,31.2,26.6,10.6,0.0088,2.12,83.05,12,12,144,142.2,330.28000000000003,1.2672
+PH10448,Erythropoietin 4000IU PFS,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,22.3,28.1,16.0,0.01003,1.92,105.59,16,8,128,143.0,270.76,1.28384
+PH10449,Insulin Aspart 100IU/ml 5x3ml Cartridge,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,24.3,28.9,14.6,0.01025,2.71,49.97,14,10,140,161.0,404.4,1.435
+PH10450,Insulin Glargine 100IU/ml 1x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,20,21.4,20.7,18.2,0.00806,1.92,78.46,19,6,114,124.19999999999999,243.88,0.91884
+PH10451,Insulin Aspart 100IU/ml 1x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,10,34.3,19.5,18.2,0.01217,1.95,84.83,14,6,84,124.19999999999999,188.79999999999998,1.02228
+PH10452,Insulin Lispro 100IU/ml 5x3ml Cartridge,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,23.8,20.9,16.9,0.00841,1.38,46.14,20,8,160,150.2,245.79999999999998,1.3456000000000001
+PH10453,Insulin Biphasic 30/70 100IU/ml 1x3ml Pen,Tessaline Biologics,Pharma,Cold Chain,2-8C,20,34.4,19.6,18.2,0.01227,2.92,21.35,15,4,60,87.8,200.2,0.7362
+PH10455,Tetanus Toxoid Vaccine 0.5ml,Tessaline Biologics,Pharma,Cold Chain,2-8C,50,31.0,29.4,23.3,0.02124,3.73,104.28,11,5,55,131.5,230.15,1.1682
+PH10456,Fusidic Acid 2% Cream 30g,Halvora Healthcare,Pharma,Topicals,Below 25C,72,41.8,35.0,24.0,0.03511,10.94,13.63,6,3,18,87.0,221.92,0.63198
+PH10457,Miconazole 2% Cream 30g,Solandra Health,Pharma,Topicals,Below 25C,96,44.8,24.3,16.6,0.01807,6.49,4.35,8,5,40,98.0,284.6,0.7228
+PH10458,Hydrocortisone 1% Cream 30g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,72,43.6,21.5,21.7,0.02034,9.34,6.13,10,5,50,123.5,492.0,1.0170000000000001
+PH10459,Fusidic Acid 2% Cream 50g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,96,33.8,24.5,20.3,0.01681,5.4,10.53,12,5,60,116.5,349.0,1.0086
+PH10460,Emollient Cream 15g,Halvora Healthcare,Pharma,Topicals,Below 25C,72,33.0,23.7,15.3,0.01197,4.09,14.78,15,8,120,137.4,515.8,1.4364
+PH10461,Clotrimazole 1% Cream 15g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,72,43.6,29.8,16.9,0.02196,6.73,6.45,8,8,64,150.2,455.72,1.40544
+PH10462,Betamethasone 0.1% Ointment 15g,Solandra Health,Pharma,Topicals,Below 25C,48,33.6,20.7,19.5,0.01356,5.95,9.78,11,7,77,151.5,483.15000000000003,1.04412
+PH10463,Diclofenac 1% Gel 15g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,144,36.4,24.7,23.0,0.02068,8.78,14.9,12,4,48,107.0,446.43999999999994,0.99264
+PH10464,Clotrimazole 1% Cream 30g,Solandra Health,Pharma,Topicals,Below 25C,96,40.9,26.7,23.6,0.02577,8.74,11.75,8,5,40,133.0,374.6,1.0308000000000002
+PH10465,Calamine Lotion 50g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,72,32.4,23.9,21.2,0.01642,5.25,10.57,14,4,56,99.8,319.0,0.91952
+PH10466,Aciclovir 5% Cream 50g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,144,39.5,27.4,20.9,0.02262,8.23,6.04,9,5,45,119.5,395.35,1.0179
+PH10467,Calamine Lotion 15g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,72,31.1,31.7,18.3,0.01804,6.6,9.85,9,4,36,88.2,262.6,0.64944
+PH10468,Diclofenac 1% Gel 30g,Solandra Health,Pharma,Topicals,Below 25C,96,37.1,23.3,17.5,0.01513,4.84,4.27,12,8,96,155.0,489.64,1.45248
+PH10469,Diclofenac 1% Gel 50g,Solandra Health,Pharma,Topicals,Below 25C,72,35.3,29.6,16.2,0.01693,7.08,7.28,9,5,45,96.0,343.6,0.76185
+PH10470,Salicylic Acid Ointment 30g,Solandra Health,Pharma,Topicals,Below 25C,96,30.6,32.8,18.3,0.01837,9.14,8.56,8,4,32,88.2,317.48,0.58784
+PH10471,Mupirocin 2% Ointment 50g,Solandra Health,Pharma,Topicals,Below 25C,144,38.7,29.2,17.1,0.01932,9.26,11.27,9,8,72,151.8,691.72,1.39104
+PH10472,Miconazole 2% Cream 50g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,48,32.1,21.6,18.8,0.01304,5.32,9.96,15,5,75,109.0,424.0,0.978
+PH10475,Betamethasone 0.1% Ointment 30g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,48,40.6,27.5,17.8,0.01987,8.65,7.37,8,3,24,68.4,232.60000000000002,0.47687999999999997
+PH10476,Betamethasone 0.1% Ointment 50g,Solandra Health,Pharma,Topicals,Below 25C,48,38.1,24.8,22.5,0.02126,7.79,5.55,10,4,40,105.0,336.6,0.8504
+PH10477,Salicylic Acid Ointment 15g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,96,31.7,30.1,23.9,0.0228,9.06,5.87,9,6,54,158.39999999999998,514.24,1.2312
+PH10478,Emollient Cream 30g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,96,43.1,29.3,22.6,0.02854,14.06,12.62,8,3,24,82.80000000000001,362.44,0.68496
+PH10479,Emollient Cream 50g,Solandra Health,Pharma,Topicals,Below 25C,96,40.0,31.9,19.5,0.02488,10.29,13.96,9,5,45,112.5,488.04999999999995,1.1196
+PH10480,Calamine Lotion 30g,Solandra Health,Pharma,Topicals,Below 25C,48,31.6,23.2,19.5,0.0143,4.58,14.71,15,4,60,93.0,299.8,0.858
+PH10481,Mupirocin 2% Ointment 15g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,72,41.6,29.3,21.6,0.02633,10.25,14.05,8,5,40,123.0,435.0,1.0532
+PH10482,Silver Sulfadiazine 1% Cream 30g,Pellaro Eye & Skin,Pharma,Topicals,Below 25C,96,33.7,23.1,23.5,0.01829,8.51,13.13,11,3,33,85.5,305.83,0.60357
+PH10483,Silver Sulfadiazine 1% Cream 15g,Halvora Healthcare,Pharma,Topicals,Below 25C,48,40.2,32.2,23.6,0.03055,14.02,13.26,6,3,18,85.80000000000001,277.36,0.5499
+PH10484,Hydrocortisone 1% Cream 50g,Solandra Health,Pharma,Topicals,Below 25C,144,39.8,25.8,22.2,0.0228,8.9,13.77,8,4,32,103.8,309.8,0.7296
+PH10485,Hydrocortisone 1% Cream 15g,Solandra Health,Pharma,Topicals,Below 25C,72,35.2,26.8,21.4,0.02019,6.35,13.45,9,5,45,122.0,310.75,0.90855
+PH10486,Artificial Tears Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,33.6,24.7,12.1,0.01004,1.77,13.81,12,7,84,99.7,173.68,0.84336
+PH10487,Timolol 0.5% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,34.0,20.3,19.6,0.01353,2.47,16.53,12,4,48,93.4,143.56,0.64944
+PH10489,Ketorolac 0.5% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,300,37.0,25.3,14.5,0.01357,3.52,26.7,7,6,42,102.0,172.84,0.56994
+PH10490,Artificial Tears Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,300,35.2,26.8,13.9,0.01311,2.61,6.96,9,9,81,140.10000000000002,236.41,1.06191
+PH10491,Ciprofloxacin 0.3% Eye Drops 10ml,Arcadine Pharma,Pharma,Eye Drops,Below 25C,300,25.3,21.6,13.6,0.00743,1.25,17.71,16,11,176,164.6,245.0,1.30768
+PH10492,Prednisolone Acetate 1% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,38.1,21.6,10.1,0.00831,2.12,20.42,12,12,144,136.2,330.28000000000003,1.19664
+PH10493,Prednisolone Acetate 1% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,25.9,27.1,17.3,0.01214,3.31,20.93,12,8,96,153.4,342.76,1.16544
+PH10494,Timolol 0.5% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,100,25.9,28.1,15.6,0.01135,2.79,14.46,12,5,60,93.0,192.4,0.681
+PH10495,Chloramphenicol 0.5% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,36.9,25.5,17.0,0.016,3.8,14.05,7,7,49,134.0,211.2,0.784
+PH10496,Olopatadine 0.1% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,100,31.9,20.4,11.3,0.00735,1.28,22.4,13,13,169,161.9,241.32,1.2421499999999999
+PH10497,Latanoprost 0.005% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,100,32.5,29.0,13.9,0.0131,1.98,16.36,10,10,100,154.0,223.0,1.31
+PH10498,Brimonidine 0.2% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,100,29.5,24.2,11.7,0.00835,1.7,10.66,16,5,80,73.5,161.0,0.6679999999999999
+PH10499,Brimonidine 0.2% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,300,35.5,28.1,13.8,0.01377,3.77,29.65,9,6,54,97.80000000000001,228.58,0.7435799999999999
+PH10500,Ketorolac 0.5% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,32.5,29.8,11.6,0.01123,2.52,4.67,12,9,108,119.39999999999999,297.16,1.2128400000000001
+PH10501,Ciprofloxacin 0.3% Eye Drops 5ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,100,39.7,21.3,11.1,0.00939,2.24,24.75,10,6,60,81.6,159.4,0.5634
+PH10502,Moxifloxacin 0.5% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,39.0,21.5,17.2,0.01442,3.31,5.77,12,7,84,135.39999999999998,303.04,1.2112800000000001
+PH10503,Olopatadine 0.1% Eye Drops 10ml,Arcadine Pharma,Pharma,Eye Drops,Below 25C,300,39.5,29.4,11.0,0.01277,2.15,26.19,9,6,54,81.0,141.1,0.68958
+PH10504,Tobramycin 0.3% Eye Drops 10ml,Pellaro Eye & Skin,Pharma,Eye Drops,Below 25C,200,30.4,26.6,15.7,0.0127,3.39,4.39,12,7,84,124.89999999999999,309.76,1.0668
+PH10505,Latanoprost 0.005% Eye Drops 5ml,Arcadine Pharma,Pharma,Eye Drops,Below 25C,200,31.2,26.6,14.4,0.01195,1.83,17.45,12,10,120,159.0,244.60000000000002,1.4340000000000002
+PH10506,Beclometasone 100mcg Inhaler 120 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,48.4,26.3,22.2,0.02826,4.94,15.49,8,6,48,148.2,262.12,1.35648
+PH10507,Budesonide 200mcg Inhaler 120 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,100,51.5,27.9,19.6,0.02816,6.16,24.78,4,5,20,113.0,148.2,0.5632
+PH10508,Salbutamol 100mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,100,41.4,29.9,16.1,0.01993,4.59,28.88,8,5,40,95.5,208.6,0.7972
+PH10509,Budesonide/Formoterol 200/6mcg Inhaler 120 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,45.5,33.0,16.2,0.02432,5.17,27.24,6,6,36,112.19999999999999,211.12,0.8755200000000001
+PH10510,Salbutamol 100mcg Inhaler 120 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,100,46.2,29.0,23.9,0.03202,5.24,12.49,8,3,24,86.69999999999999,150.76,0.76848
+PH10511,Budesonide 200mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,48.8,25.5,20.9,0.02601,4.9,12.64,7,3,21,77.69999999999999,127.9,0.54621
+PH10512,Budesonide/Formoterol 200/6mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,100,42.8,34.8,17.6,0.02621,5.51,24.6,6,7,42,138.20000000000002,256.41999999999996,1.1008200000000001
+PH10513,Fluticasone 125mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,40.7,34.2,24.2,0.03368,5.71,18.05,5,2,10,63.4,82.1,0.3368
+PH10514,Tiotropium 18mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,100,49.5,29.0,22.4,0.03216,8.67,30.21,8,4,32,104.6,302.44,1.02912
+PH10515,Beclometasone 100mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,48.5,32.6,21.5,0.03399365,7.24,13.79,6,6,36,144.0,285.64,1.2237714
+PH10516,Ipratropium 20mcg Inhaler 200 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,41.8,26.1,20.5,0.02237,3.81,11.14,8,3,24,76.5,116.44,0.53688
+PH10517,Ipratropium 20mcg Inhaler 120 Dose,Marwick Pharmaceuticals,Pharma,Inhalers,Below 25C,50,53.0,32.0,23.8,0.04036,9.97,15.54,6,5,30,134.0,324.1,1.2108
+PH10518,Growing-Up Milk Stage 3 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,24,30.8,25.6,23.6,0.01861,8.79,39.68,10,3,30,85.80000000000001,288.7,0.5583
+PH10519,Diabetic Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,44.7,32.9,29.2,0.04294,16.41,17.31,6,3,18,102.6,320.38,0.7729199999999999
+PH10520,Adult Complete Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,39.7,34.2,27.1,0.03679,17.81,29.37,6,3,18,96.30000000000001,345.58,0.66222
+PH10521,Infant Formula Stage 1 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,6,42.4,32.7,29.3,0.04062,18.28,15.91,6,3,18,102.9,354.04,0.73116
+PH10522,Infant Formula Stage 1 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,24,40.7,29.5,25.0,0.03002,12.74,20.58,8,4,32,115.0,432.68,0.96064
+PH10523,Weight Gain Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,39.5,31.0,20.2,0.02473,12.02,38.57,9,6,54,136.2,782.26,1.3354199999999998
+PH10524,Diabetic Nutrition Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,36.8,27.3,24.0,0.02411,10.86,35.6,9,2,18,63.0,220.48,0.43398
+PH10525,Senior Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,41.5,29.3,21.1,0.02566,11.12,32.6,8,6,48,141.60000000000002,558.76,1.2316799999999999
+PH10526,Infant Formula Stage 2 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,30.9,28.2,28.6,0.024921468,9.83,44.78,12,4,48,129.4,496.84000000000003,1.1962304639999999
+PH10527,Weight Gain Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,42.8,31.0,29.3,0.03888,20.4,38.68,6,4,24,132.2,514.5999999999999,0.93312
+PH10528,High Protein Supplement 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,24,41.3,30.2,26.3,0.0328,14.6,21.93,6,5,30,146.5,463.0,0.9840000000000001
+PH10529,Senior Nutrition Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,12,30.5,30.4,26.0,0.02411,11.28,21.28,9,5,45,145.0,532.5999999999999,1.08495
+PH10530,Adult Complete Nutrition Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,12,33.0,30.0,28.7,0.02841,15.0,25.64,12,3,36,101.1,565.0,1.0227600000000001
+PH10531,Growing-Up Milk Stage 3 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,34.5,32.9,27.5,0.03121,16.63,31.67,9,2,18,70.0,324.34,0.5617800000000001
+PH10532,High Protein Supplement 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,24,35.0,28.6,23.2,0.02322,9.32,37.44,9,4,36,107.8,360.52,0.83592
+SG20001,IV Cannula 18G x50,Aldermoor Medical,Surgical,Surgical,Ambient,10,46.0,43.3,33.7,0.06712,8.91,6.3,4,4,16,149.8,167.56,1.07392
+SG20002,Syringe Luer Lock 3ml x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,40.7,43.5,28.6,0.05063,8.27,2.17,4,5,20,158.0,190.39999999999998,1.0126
+SG20003,Syringe Luer Lock 10ml x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,57.0,39.8,43.9,0.09959,8.11,1.79,4,2,8,102.8,89.88,0.79672
+SG20004,Adhesive Wound Dressing 9x10cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,10,44.1,30.3,36.3,0.04851,5.7,6.99,6,3,18,123.89999999999999,127.60000000000001,0.87318
+SG20005,Adhesive Wound Dressing 6x7cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,44.1,36.9,33.3,0.05419,8.13,7.3,4,4,16,148.2,155.08,0.86704
+SG20006,Latex Surgical Gloves Size 7 x100,Aldermoor Medical,Surgical,Surgical,Ambient,100,47.0,31.3,42.3,0.06223,9.97,6.94,6,3,18,141.89999999999998,204.46,1.12014
+SG20007,Infusion Set Standard x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,57.0,36.1,29.5,0.0607,7.39,3.93,4,3,12,103.5,113.67999999999999,0.7283999999999999
+SG20008,Urinary Catheter 16Fr x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,40.7,32.6,37.9,0.05029,4.08,0.54,5,2,10,90.8,65.8,0.5029
+SG20009,Nitrile Examination Gloves Size M x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,45.0,31.7,33.1,0.04722,3.35,0.67,6,3,18,114.30000000000001,85.30000000000001,0.8499599999999999
+SG20010,Hypodermic Needle 21G x100,Aldermoor Medical,Surgical,Surgical,Ambient,100,61.6,32.6,27.3,0.05482,4.0,5.77,3,5,15,151.5,85.0,0.8223
+SG20011,Hypodermic Needle 21G x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,56.5,35.9,26.6,0.05395411,7.71,5.29,3,2,6,68.2,71.25999999999999,0.32372466
+SG20012,Surgical Mask 3-Ply Standard x100,Aldermoor Medical,Surgical,Surgical,Ambient,10,46.0,35.2,39.2,0.06347,10.47,6.79,6,2,12,93.4,150.64000000000001,0.76164
+SG20013,Syringe Luer Lock 5ml x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,64.3,31.2,31.4,0.06299,7.25,1.29,3,4,12,140.6,112.0,0.7558800000000001
+SG20014,IV Cannula 22G x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,61.6,36.0,28.5,0.0632,9.31,1.73,3,3,9,100.5,108.79,0.5688000000000001
+SG20015,Gauze Swab 10x10cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,46.3,36.0,32.7,0.0545,7.63,2.22,4,2,8,80.4,86.03999999999999,0.436
+SG20016,Urinary Catheter 16Fr x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,46.7,45.0,37.9,0.07965,12.38,0.68,4,2,8,90.8,124.04,0.6372
+SG20017,Syringe Luer Lock 3ml x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,60.8,33.7,30.5,0.06249,7.7,3.45,3,2,6,76.0,71.2,0.37494
+SG20018,Latex Surgical Gloves Size 7.5 x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,59.8,40.7,34.7,0.08445,7.96,7.5,2,4,8,153.8,88.68,0.6756
+SG20019,Nitrile Examination Gloves Size L x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,57.8,30.2,38.7,0.06755,5.64,1.83,6,2,12,92.4,92.67999999999999,0.8106
+SG20020,Adhesive Wound Dressing 9x10cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,57.4,36.6,35.7,0.075,6.42,7.89,4,3,12,122.10000000000001,102.03999999999999,0.8999999999999999
+SG20021,Crepe Bandage 10cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,10,40.7,43.1,30.8,0.05403,6.72,0.82,4,2,8,76.6,78.75999999999999,0.43224
+SG20022,Crepe Bandage 7.5cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,55.3,40.6,31.4,0.0705,10.03,3.88,4,4,16,140.6,185.48,1.128
+SG20023,Blood Administration Set 20 drops/ml x100,Aldermoor Medical,Surgical,Surgical,Ambient,10,52.8,30.5,33.2,0.05347,6.45,0.69,5,3,15,114.60000000000001,121.75,0.8020499999999999
+SG20024,Crepe Bandage 7.5cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,47.5,31.5,38.4,0.05746,6.65,6.47,6,3,18,130.2,144.7,1.0342799999999999
+SG20025,Syringe Luer Lock 5ml x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,41.8,35.7,30.0,0.04477,7.0,2.33,4,3,12,105.0,109.0,0.5372399999999999
+SG20026,Latex Surgical Gloves Size 7.5 x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,53.3,41.6,35.6,0.07894,6.56,3.53,4,4,16,157.4,129.95999999999998,1.26304
+SG20027,Gauze Swab 10x10cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,47.4,35.0,37.4,0.06205,6.53,2.16,6,3,18,127.19999999999999,142.54000000000002,1.1169
+SG20028,IV Cannula 20G x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,55.6,41.0,38.4,0.08754,6.03,6.65,4,1,4,53.4,49.120000000000005,0.35016
+SG20029,Infusion Set Standard x100,Aldermoor Medical,Surgical,Surgical,Ambient,100,46.4,39.3,43.4,0.07914,13.43,4.12,4,2,8,101.8,132.44,0.63312
+SG20030,IV Cannula 18G x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,41.1,33.0,35.4,0.04801,3.74,6.78,6,2,12,85.8,69.88,0.57612
+SG20031,Urinary Catheter 14Fr x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,53.1,32.4,41.7,0.07174,12.61,3.68,6,2,12,98.4,176.32,0.86088
+SG20032,Hypodermic Needle 23G x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,59.4,39.8,39.5,0.09338,12.19,6.14,2,2,4,94.0,73.75999999999999,0.37352
+SG20033,Crepe Bandage 10cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,56.0,37.6,44.2,0.09307,16.57,5.63,4,2,8,103.4,157.56,0.74456
+SG20034,IV Cannula 20G x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,56.0,31.6,40.7,0.07202,6.84,2.88,6,2,12,96.4,107.08,0.86424
+SG20035,Gauze Swab 7.5x7.5cm x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,54.3,34.3,41.6,0.07748,6.31,7.62,4,1,4,56.6,50.239999999999995,0.30992
+SG20036,Gauze Swab 7.5x7.5cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,100,41.0,42.3,36.9,0.064,7.5,6.16,4,4,16,162.6,145.0,1.024
+SG20037,Surgical Mask 3-Ply Standard x50,Aldermoor Medical,Surgical,Surgical,Ambient,10,44.1,34.5,31.0,0.04716,2.97,7.15,6,2,12,77.0,60.64,0.56592
+SG20038,Nitrile Examination Gloves Size L x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,64.3,41.0,27.5,0.0725,11.88,3.35,2,2,4,70.0,72.52000000000001,0.29
+SG20039,Latex Surgical Gloves Size 8 x50,Aldermoor Medical,Surgical,Surgical,Ambient,100,64.8,31.7,35.2,0.07231,8.68,4.5,3,3,9,120.60000000000001,103.12,0.65079
+SG20040,Latex Surgical Gloves Size 8 x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,54.1,39.0,26.5,0.05591,4.7,3.86,4,2,8,68.0,62.6,0.44728
+SG20041,Nitrile Examination Gloves Size M x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,52.3,40.6,32.0,0.06795,8.41,0.72,4,4,16,143.0,159.56,1.0872
+SG20042,Urinary Catheter 14Fr x100,Aldermoor Medical,Surgical,Surgical,Ambient,10,60.5,36.4,28.1,0.06188,10.62,2.17,3,3,9,99.30000000000001,120.58,0.55692
+SG20043,Latex Surgical Gloves Size 7 x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,62.3,34.5,41.0,0.08812,10.99,2.82,3,2,6,97.0,90.94,0.5287200000000001
+SG20044,Nitrile Examination Gloves Size S x100,Aldermoor Medical,Surgical,Surgical,Ambient,20,62.2,36.6,44.1,0.10039,9.83,4.38,3,1,3,59.1,54.49,0.30117
+SG20045,Hypodermic Needle 23G x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,44.7,41.8,34.2,0.0639,11.29,1.21,2,4,8,151.8,115.32,0.5112
+SG20046,Adhesive Wound Dressing 6x7cm x100,Aldermoor Medical,Surgical,Surgical,Ambient,50,45.8,43.1,36.8,0.07264,10.7,5.69,4,4,16,162.2,196.2,1.16224
+SG20047,Syringe Luer Lock 10ml x50,Aldermoor Medical,Surgical,Surgical,Ambient,20,56.7,36.6,31.2,0.06475,10.88,1.92,4,2,8,77.4,112.04,0.518
+SG20048,Blood Administration Set 20 drops/ml x50,Aldermoor Medical,Surgical,Surgical,Ambient,50,58.2,34.1,34.0,0.06748,6.25,3.35,4,4,16,151.0,125.0,1.07968
+SG20049,Hepatitis B Surface Antigen Test 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,5,34.2,23.1,15.7,0.0124,2.83,274.54,12,9,108,156.29999999999998,330.64,1.3392
+SG20051,Dengue NS1 Rapid Test 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,1,24.2,20.0,19.5,0.00944,1.61,215.49,24,7,168,151.5,295.48,1.58592
+SG20052,Blood Glucose Test Strips 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,28.3,20.5,12.6,0.00731,1.19,80.68,16,10,160,141.0,215.39999999999998,1.1696
+SG20053,TSH Reagent Kit 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,Ambient,10,31.8,24.0,14.1,0.01076,2.57,270.48,15,6,90,99.6,256.29999999999995,0.9684
+SG20054,Pregnancy Test Strips 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,5,21.4,20.7,19.3,0.00855,1.67,143.06,20,5,100,111.5,192.0,0.855
+SG20055,Urine Test Strips 10-Parameter 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,24.0,22.5,11.7,0.00632,0.85,151.9,20,11,220,143.7,212.0,1.3904
+SG20056,Urine Test Strips 10-Parameter 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,Ambient,5,34.9,21.5,18.8,0.01411,1.66,232.91,12,3,36,71.4,84.75999999999999,0.50796
+SG20057,HIV 1/2 Rapid Test 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,26.8,23.0,15.4,0.00949,2.06,160.1,14,5,70,92.0,169.20000000000002,0.6643
+SG20058,Troponin Rapid Test 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,1,33.7,16.5,13.9,0.00773,1.01,47.73,18,7,126,112.3,152.26,0.97398
+SG20059,Malaria Antigen Test 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,23.2,20.7,14.4,0.00692,1.42,111.26,20,4,80,72.6,138.6,0.5536
+SG20060,Blood Glucose Test Strips 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,Ambient,1,32.5,18.9,16.7,0.01026,1.9,130.86,18,8,144,148.6,298.59999999999997,1.47744
+SG20061,Dengue NS1 Rapid Test 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,21.1,15.5,15.1,0.00494,0.75,292.54,30,5,150,90.5,137.5,0.741
+SG20062,CRP Reagent Kit 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,32.7,15.9,16.6,0.00863,1.53,250.14,21,4,84,81.4,153.52,0.72492
+SG20063,Hepatitis B Surface Antigen Test 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,5,28.4,22.8,11.4,0.00738,1.5,129.77,16,13,208,163.20000000000002,337.0,1.53504
+SG20064,HbA1c Reagent Kit 25 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,1,33.9,18.2,12.7,0.00784,1.12,56.09,15,5,75,78.5,109.00000000000001,0.588
+SG20065,Cholesterol Reagent Kit 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,26.2,18.5,18.8,0.00911,1.36,200.23,20,6,120,127.80000000000001,188.20000000000002,1.0932
+SG20066,HIV 1/2 Rapid Test 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,24.4,15.5,11.0,0.00416,1.04,62.51,28,10,280,125.0,316.2,1.1647999999999998
+SG20067,TSH Reagent Kit 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,2-8C,10,33.1,24.0,15.3,0.01215,1.74,42.82,15,7,105,122.10000000000001,207.7,1.27575
+SG20068,HbA1c Reagent Kit 100 Tests,Quintessa Diagnostics,Surgical,Diagnostics,Ambient,1,22.6,20.5,13.1,0.00607,0.97,225.85,20,8,160,119.8,180.2,0.9712

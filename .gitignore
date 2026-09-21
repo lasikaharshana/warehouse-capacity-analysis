@@ -1,0 +1,17 @@
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Excel lock files
+~$*.xlsx
+
+# Safety net: never commit real client material.
+# Keep original files outside this folder entirely.
+private/
+*confidential*
