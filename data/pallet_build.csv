@@ -328,12 +328,12 @@ PH10331,Cetirizine 5mg/5ml Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,3
 PH10332,Paracetamol 120mg/5ml Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,24,34.3,25.5,16.6,0.01452,11.39,3.26,7,7,49,131.20000000000002,583.11,0.71148
 PH10333,Cough Expectorant Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,45.0,21.6,19.4,0.01886,14.68,6.47,10,4,40,92.6,612.2,0.7544
 PH10334,Multivitamin Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,40.6,20.4,15.2,0.01259,8.25,8.59,10,7,70,121.39999999999999,602.5,0.8813000000000001
-PH10335,Iron Tonic Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,33.3,25.7,18.3,0.01566,8.82,4.69,12,6,72,124.80000000000001,765.88,1.12752
-PH10336,Iron Tonic Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,48,40.9,22.5,20.9,0.01923,15.14,5.3,8,5,40,119.5,751.72,0.7692
+PH10335,Iron Tonic Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36,33.3,25.7,18.3,0.01566,8.82,4.69,12,6,72,124.80000000000001,660.04,1.12752
+PH10336,Iron Tonic Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,48,40.9,22.5,20.9,0.01923,15.14,5.3,8,5,40,119.5,630.6,0.7692
 PH10338,Paracetamol 120mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,30.8,30.3,16.8,0.01568,11.82,3.6,8,7,56,132.60000000000002,686.9200000000001,0.87808
 PH10339,Amoxicillin 125mg/5ml Dry Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,42.6,21.4,15.1,0.01377,8.79,4.4,10,7,70,120.7,640.3,0.9639
-PH10340,Loratadine 5mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,41.2,29.9,15.9,0.01959,15.04,6.84,6,8,48,142.2,837.16,0.94032
-PH10342,Ibuprofen 100mg/5ml Suspension 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,43.7,26.2,18.2,0.02084,15.91,6.03,8,5,40,106.0,915.96,0.8336
+PH10340,Loratadine 5mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,41.2,29.9,15.9,0.01959,15.04,6.84,6,8,48,142.2,746.92,0.94032
+PH10342,Ibuprofen 100mg/5ml Suspension 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,43.7,26.2,18.2,0.02084,15.91,6.03,8,5,40,106.0,661.4,0.8336
 PH10343,Cough Expectorant Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,33.0,34.9,23.6,0.02718,19.58,8.47,7,3,21,85.80000000000001,436.17999999999995,0.57078
 PH10344,Cetirizine 5mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,42.4,29.2,19.1,0.02365,15.06,9.19,8,5,40,110.5,627.4,0.9460000000000001
 PH10345,Lactulose 3.3g/5ml Solution 100ml,Solandra Health,Pharma,Syrups,Below 25C,24,44.9,33.1,17.1,0.02541,19.59,5.42,4,6,24,117.60000000000001,495.15999999999997,0.6098399999999999
@@ -343,50 +343,50 @@ PH10348,Cough Expectorant Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,36
 PH10349,Antacid Oral Suspension 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,40.5,22.2,21.5,0.01933,12.85,4.63,10,4,40,101.0,539.0,0.7732
 PH10350,Amoxicillin 125mg/5ml Dry Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,36.1,24.5,22.4,0.01981,14.05,11.26,10,5,50,127.0,727.5,0.9905
 PH10351,Antacid Oral Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,24,38.0,33.9,21.1,0.02718,20.82,3.9,6,4,24,99.4,524.6800000000001,0.65232
-PH10352,Paracetamol 120mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,37.3,24.3,17.6,0.01595,10.07,3.67,12,5,60,103.0,750.04,0.957
+PH10352,Paracetamol 120mg/5ml Syrup 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,37.3,24.3,17.6,0.01595,10.07,3.67,12,5,60,103.0,629.2,0.957
 PH10353,Multivitamin Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,33.5,25.4,19.0,0.01617,11.05,5.42,8,6,48,129.0,555.4000000000001,0.77616
-PH10354,Oral Rehydration Solution 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,35.3,30.1,22.5,0.02391,14.92,11.92,9,5,45,127.5,830.68,1.07595
-PH10355,Loratadine 5mg/5ml Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,31.9,32.0,18.0,0.01837,12.97,10.52,9,6,54,123.0,842.11,0.9919800000000001
+PH10354,Oral Rehydration Solution 200ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,35.3,30.1,22.5,0.02391,14.92,11.92,9,5,45,127.5,696.4,1.07595
+PH10355,Loratadine 5mg/5ml Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,31.9,32.0,18.0,0.01837,12.97,10.52,9,6,54,123.0,725.38,0.9919800000000001
 PH10356,Azithromycin 200mg/5ml Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,42.9,24.8,15.9,0.01692,9.34,9.97,8,6,48,110.4,473.32,0.81216
-PH10357,Amoxicillin 125mg/5ml Dry Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,60,41.6,31.1,25.0,0.03234,20.73,4.57,6,5,30,140.0,771.28,0.9702000000000001
+PH10357,Amoxicillin 125mg/5ml Dry Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,60,41.6,31.1,25.0,0.03234,20.73,4.57,6,5,30,140.0,646.9,0.9702000000000001
 PH10358,Oral Rehydration Solution 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,36.7,20.2,21.1,0.01564,10.25,10.75,10,4,40,99.4,435.0,0.6256
-PH10359,Salbutamol 2mg/5ml Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,60,38.3,25.7,17.2,0.01693,13.27,10.5,9,6,54,118.19999999999999,980.4399999999999,0.91422
+PH10359,Salbutamol 2mg/5ml Syrup 60ml,Solandra Health,Pharma,Syrups,Below 25C,60,38.3,25.7,17.2,0.01693,13.27,10.5,9,6,54,118.19999999999999,741.5799999999999,0.91422
 PH10360,Cetirizine 5mg/5ml Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,60,38.2,30.9,17.3,0.02042,13.25,11.51,9,5,45,101.5,621.25,0.9189
 PH10361,Antacid Oral Suspension 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,36.6,21.8,18.4,0.01468,11.6,6.71,12,5,60,107.0,721.0,0.8808
 PH10362,Salbutamol 2mg/5ml Syrup 100ml,Halvora Healthcare,Pharma,Syrups,Below 25C,24,36.8,20.6,18.6,0.0141,10.93,5.27,12,5,60,108.0,680.8,0.846
-PH10363,Multivitamin Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,48,38.0,26.4,21.3,0.02137,14.97,10.88,9,5,45,121.5,833.38,0.96165
-PH10364,Loratadine 5mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,38.9,24.9,15.7,0.01521,9.66,3.72,12,6,72,109.19999999999999,952.36,1.0951199999999999
+PH10363,Multivitamin Syrup 100ml,Solandra Health,Pharma,Syrups,Below 25C,48,38.0,26.4,21.3,0.02137,14.97,10.88,9,5,45,121.5,698.65,0.96165
+PH10364,Loratadine 5mg/5ml Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,38.9,24.9,15.7,0.01521,9.66,3.72,12,6,72,109.19999999999999,720.52,1.0951199999999999
 PH10365,Ibuprofen 100mg/5ml Suspension 100ml,Solandra Health,Pharma,Syrups,Below 25C,36,35.2,28.4,24.6,0.02459,18.76,6.86,9,2,18,64.2,362.68,0.44262
-PH10366,Lactulose 3.3g/5ml Solution 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,34.6,27.1,18.4,0.01725,13.69,8.92,9,5,45,107.0,887.4699999999999,0.7762500000000001
-PH10367,Zinc Sulfate Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,44.6,27.9,20.7,0.02576,16.09,6.42,8,5,40,118.5,797.3199999999999,1.0304
+PH10366,Lactulose 3.3g/5ml Solution 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,36,34.6,27.1,18.4,0.01725,13.69,8.92,9,5,45,107.0,641.05,0.7762500000000001
+PH10367,Zinc Sulfate Syrup 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,44.6,27.9,20.7,0.02576,16.09,6.42,8,5,40,118.5,668.6,1.0304
 PH10368,Lactulose 3.3g/5ml Solution 200ml,Solandra Health,Pharma,Syrups,Below 25C,48,41.5,28.0,15.4,0.01789,12.94,10.3,8,4,32,76.6,439.08,0.57248
 PH10369,Ibuprofen 100mg/5ml Suspension 200ml,Solandra Health,Pharma,Syrups,Below 25C,24,35.2,30.7,17.7,0.01913,11.97,3.12,7,3,21,68.1,276.37,0.40173000000000003
 PH10370,Zinc Sulfate Syrup 60ml,Halvora Healthcare,Pharma,Syrups,Below 25C,48,35.1,21.2,18.8,0.01399,9.79,7.42,12,4,48,90.2,494.91999999999996,0.67152
-PH10371,Glucose 4% + NaCl 0.18% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,50.6,36.5,22.4,0.04137,37.49,5.68,4,4,16,104.6,924.76,0.66192
-PH10372,Glucose 4% + NaCl 0.18% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,52.5,32.2,22.2,0.03753,32.89,1.96,6,3,18,81.6,814.36,0.67554
-PH10373,Compound Sodium Lactate IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.8,39.1,27.9,0.04996,49.79,5.06,5,2,10,70.8,771.85,0.4996
-PH10374,Sodium Chloride 0.45% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,45.2,30.6,27.9,0.03859,36.5,2.49,6,3,18,98.69999999999999,901.0,0.69462
-PH10375,Dextrose 5% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,52.7,30.7,21.3,0.03446,31.21,5.4,4,5,20,121.5,898.88,0.6891999999999999
-PH10376,Sodium Chloride 0.9% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.9,31.4,21.6,0.03113,31.1,3.88,6,3,18,79.80000000000001,958.0,0.5603400000000001
-PH10377,Dextrose 10% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.4,30.2,27.8,0.03812,36.84,4.32,6,3,18,98.4,909.1600000000001,0.68616
-PH10378,Sodium Chloride 0.9% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,48.8,32.6,25.9,0.0412,36.92,4.91,4,4,16,118.6,763.4000000000001,0.6592
-PH10379,Glucose 4% + NaCl 0.18% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,45.4,37.3,24.1,0.04081,40.35,5.5,6,2,12,63.2,751.3000000000001,0.48972
+PH10371,Glucose 4% + NaCl 0.18% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,50.6,36.5,22.4,0.04137,37.49,5.68,4,4,16,104.6,624.84,0.66192
+PH10372,Glucose 4% + NaCl 0.18% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,52.5,32.2,22.2,0.03753,32.89,1.96,6,3,18,81.6,617.02,0.67554
+PH10373,Compound Sodium Lactate IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.8,39.1,27.9,0.04996,49.79,5.06,5,2,10,70.8,522.9,0.4996
+PH10374,Sodium Chloride 0.45% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,45.2,30.6,27.9,0.03859,36.5,2.49,6,3,18,98.69999999999999,682.0,0.69462
+PH10375,Dextrose 5% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,52.7,30.7,21.3,0.03446,31.21,5.4,4,5,20,121.5,649.2,0.6891999999999999
+PH10376,Sodium Chloride 0.9% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.9,31.4,21.6,0.03113,31.1,3.88,6,3,18,79.80000000000001,584.8000000000001,0.5603400000000001
+PH10377,Dextrose 10% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,45.4,30.2,27.8,0.03812,36.84,4.32,6,3,18,98.4,688.1200000000001,0.68616
+PH10378,Sodium Chloride 0.9% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,48.8,32.6,25.9,0.0412,36.92,4.91,4,4,16,118.6,615.72,0.6592
+PH10379,Glucose 4% + NaCl 0.18% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,45.4,37.3,24.1,0.04081,40.35,5.5,6,2,12,63.2,509.20000000000005,0.48972
 PH10380,Compound Sodium Lactate IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,50.2,30.5,28.1,0.04302,36.84,3.24,5,3,15,99.30000000000001,577.6,0.6453
-PH10381,Dextrose 5% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,41.5,34.5,20.6,0.02949,27.86,2.29,6,4,24,97.4,860.8,0.70776
+PH10381,Dextrose 5% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,41.5,34.5,20.6,0.02949,27.86,2.29,6,4,24,97.4,693.64,0.70776
 PH10382,Glucose 4% + NaCl 0.18% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,42.6,33.6,21.8,0.0312,28.69,3.92,6,3,18,80.4,541.4200000000001,0.5616
 PH10383,Sodium Chloride 0.45% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,57.0,39.9,20.7,0.04708,42.85,1.54,3,5,15,118.5,667.75,0.7061999999999999
-PH10384,Compound Sodium Lactate IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,58.7,33.9,25.1,0.04995,48.91,1.79,4,3,12,90.30000000000001,1003.1999999999999,0.5994
+PH10384,Compound Sodium Lactate IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,58.7,33.9,25.1,0.04995,48.91,1.79,4,3,12,90.30000000000001,611.92,0.5994
 PH10385,Glucose 4% + NaCl 0.18% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,40.6,31.8,26.3,0.03396,31.6,5.56,5,4,20,120.2,657.0,0.6791999999999999
 PH10386,Dextrose 10% IV 1000ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,43.7,34.3,28.4,0.04257,40.95,3.45,6,2,12,71.8,516.4000000000001,0.51084
-PH10387,Dextrose 10% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,55.0,31.3,21.2,0.0365,33.54,3.95,6,3,18,78.6,829.96,0.6569999999999999
+PH10387,Dextrose 10% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,55.0,31.3,21.2,0.0365,33.54,3.95,6,3,18,78.6,628.72,0.6569999999999999
 PH10388,Dextrose 10% IV 1000ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,59.8,39.0,25.0,0.0583,52.58,1.74,2,4,8,115.0,445.64,0.4664
-PH10389,Sodium Chloride 0.45% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,42.8,35.1,24.4,0.03666,36.5,1.99,5,3,15,88.19999999999999,755.0,0.5498999999999999
-PH10390,Compound Sodium Lactate IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.6,38.4,24.1,0.0422,41.51,2.03,6,2,12,63.2,1021.24,0.5064
+PH10389,Sodium Chloride 0.45% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,10,42.8,35.1,24.4,0.03666,36.5,1.99,5,3,15,88.19999999999999,572.5,0.5498999999999999
+PH10390,Compound Sodium Lactate IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.6,38.4,24.1,0.0422,41.51,2.03,6,2,12,63.2,523.12,0.5064
 PH10391,Compound Sodium Lactate IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,24,58.6,33.8,28.2,0.05586,50.39,3.7,4,3,12,99.6,629.6800000000001,0.67032
 PH10392,Sodium Chloride 0.9% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,45.2,32.9,20.6,0.03063,28.09,2.72,5,4,20,97.4,586.8,0.6126
-PH10393,Dextrose 5% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,41.6,35.5,26.9,0.03973,37.6,2.15,6,3,18,95.69999999999999,927.4000000000001,0.71514
-PH10394,Dextrose 10% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,49.2,35.2,24.1,0.04174,38.83,4.03,6,3,18,87.30000000000001,956.92,0.75132
-PH10395,Dextrose 5% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,58.1,32.5,28.3,0.05344,52.24,4.18,6,2,12,71.6,965.32,0.6412800000000001
+PH10393,Dextrose 5% IV 500ml Bottle,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,41.6,35.5,26.9,0.03973,37.6,2.15,6,3,18,95.69999999999999,701.8000000000001,0.71514
+PH10394,Dextrose 10% IV 500ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,20,49.2,35.2,24.1,0.04174,38.83,4.03,6,3,18,87.30000000000001,723.9399999999999,0.75132
+PH10395,Dextrose 5% IV 250ml Bag,Clearford Infusions,Pharma,IV Fluids,Below 25C,12,58.1,32.5,28.3,0.05344,52.24,4.18,6,2,12,71.6,651.88,0.6412800000000001
 PH10396,Hydrocortisone 100mg Vial 1s,Dunmore Therapeutics,Pharma,Injections,2-8C,50,40.7,34.3,24.3,0.03392,4.96,22.3,6,6,36,160.8,203.56,1.22112
 PH10397,Pantoprazole 40mg Vial 10s,Tessaline Biologics,Pharma,Injections,Below 25C,100,30.2,22.1,21.9,0.01462,2.91,11.05,14,3,42,80.69999999999999,147.22,0.6140399999999999
 PH10398,Heparin 5000IU/ml 5ml Vial 10s,Tessaline Biologics,Pharma,Injections,2-8C,200,35.6,25.2,13.2,0.01184,1.85,6.26,7,9,63,133.8,141.55,0.74592
@@ -510,7 +510,7 @@ PH10519,Diabetic Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Am
 PH10520,Adult Complete Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,39.7,34.2,27.1,0.03679,17.81,29.37,6,3,18,96.30000000000001,345.58,0.66222
 PH10521,Infant Formula Stage 1 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,6,42.4,32.7,29.3,0.04062,18.28,15.91,6,3,18,102.9,354.04,0.73116
 PH10522,Infant Formula Stage 1 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Below 25C,24,40.7,29.5,25.0,0.03002,12.74,20.58,8,4,32,115.0,432.68,0.96064
-PH10523,Weight Gain Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,39.5,31.0,20.2,0.02473,12.02,38.57,9,6,54,136.2,782.26,1.3354199999999998
+PH10523,Weight Gain Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,39.5,31.0,20.2,0.02473,12.02,38.57,9,6,54,136.2,674.0799999999999,1.3354199999999998
 PH10524,Diabetic Nutrition Powder 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,24,36.8,27.3,24.0,0.02411,10.86,35.6,9,2,18,63.0,220.48,0.43398
 PH10525,Senior Nutrition Powder 400g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,41.5,29.3,21.1,0.02566,11.12,32.6,8,6,48,141.60000000000002,558.76,1.2316799999999999
 PH10526,Infant Formula Stage 2 800g Tin,Kinloch Nutrition,Pharma,Nutrition,Ambient,6,30.9,28.2,28.6,0.024921468,9.83,44.78,12,4,48,129.4,496.84000000000003,1.1962304639999999
